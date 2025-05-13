@@ -1,0 +1,15 @@
+
+#Settings related to gameplay
+[gameplay]
+	#Define if ores should drop their raw resource instead
+	#Iron Ore drops -> Raw Iron instead (1.16 only)
+	#Gold Ore drops -> Raw Gold instead (1.16 only)
+	#Ancient Debris drops -> Raw Debris instead
+	applyRawOreLootModifier = true
+	#If right-click harvesting should be enabled.
+	rightClickHarvest = false
+	#If enabled, bound machines will be usable only by their owner
+	lockBoundMachines = false
+	#If all progress should be lost on death
+	resetOnDeath = false
+
