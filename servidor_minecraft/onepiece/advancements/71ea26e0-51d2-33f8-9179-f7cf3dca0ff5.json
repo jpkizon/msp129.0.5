@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2025-05-13 23:35:00 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_beech_dhow": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -745,6 +751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-13 23:35:01 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_magic_rowboat": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -808,6 +820,12 @@
   "smallships:recipes/bop_fir_drakkar": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-05-13 23:35:01 +0000"
     },
     "done": true
   },
@@ -1166,6 +1184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-13 23:35:01 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_rowboat": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -1358,6 +1382,12 @@
   "smallships:recipes/envi_cherry_war_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-13 23:34:14 +0000"
     },
     "done": true
   },
@@ -1745,6 +1775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-13 23:35:01 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_pine_war_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -1849,6 +1885,12 @@
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000",
       "has_the_recipe": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-05-13 23:35:01 +0000"
     },
     "done": true
   },
@@ -2080,6 +2122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-13 23:35:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-13 21:00:17 +0000"
@@ -2291,6 +2339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-05-13 23:35:01 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_fir_rowboat": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -2342,6 +2396,12 @@
   "smallships:recipes/bop_dead_rowboat": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-13 23:35:01 +0000"
     },
     "done": true
   },
@@ -2519,6 +2579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2025-05-13 23:35:00 +0000"
+    },
+    "done": true
+  },
   "oldguns:recipes/oldguns/brass_nugget_vanilla": {
     "criteria": {
       "has_crafting_table": "2025-05-13 20:40:20 +0000"
@@ -2564,6 +2630,12 @@
   "smallships:recipes/bop_palm_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-13 23:35:01 +0000"
     },
     "done": true
   },
@@ -2895,6 +2967,12 @@
   "smallships:recipes/lotr_cherry_cog": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-05-13 23:35:01 +0000"
     },
     "done": true
   },
