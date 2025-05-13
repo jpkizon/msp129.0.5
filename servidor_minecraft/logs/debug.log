@@ -4633,3 +4633,7 @@ Caused by: java.lang.IllegalArgumentException: Unknown or invalid command '/data
 [13May2025 16:01:49.163] [Server thread/DEBUG] [org.valkyrienskies.core.networking.NetworkChannel/]: Server received packet of type: PacketType(channel=org.valkyrienskies.core.networking.NetworkChannel@54efcc33, id=1, name=SimplePacket - class org.valkyrienskies.core.networking.impl.PacketRequestUdp)
 [13May2025 16:01:52.519] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: jpkizon lost connection: Disconnected
 [13May2025 16:01:52.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon left the game
+[13May2025 16:03:56.400] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save onepiece
+[13May2025 16:03:56.417] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete onepiece
+[13May2025 16:08:54.803] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save onepiece
+[13May2025 16:08:54.815] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete onepiece
