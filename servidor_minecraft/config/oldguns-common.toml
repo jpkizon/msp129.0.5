@@ -8,8 +8,8 @@
 	#You can then take that config file and put it in the 'defaultconfigs' folder to make it apply automatically to all NEW worlds you generate FROM THERE ON.
 	#This is a sensible way to handle configuration, because the server configuration is synced when playing multiplayer.
 	importantInfo = true
-	#Print debug messages to console
-	printDebugMessages = false
 	#Patch vanilla recipe book to handle NBT items
 	patchRecipeBook = true
+	#Print debug messages to console
+	printDebugMessages = false
 
