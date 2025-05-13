@@ -134,3 +134,4 @@
 [13May2025 01:07:59.177] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
 [13May2025 01:07:59.420] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 41770 ms
 [13May2025 01:07:59.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (50.524s)! For help, type "help"
+[13May2025 01:36:01.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made jpkizon a server operator
