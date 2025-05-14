@@ -300,3 +300,37 @@ Caused by: java.lang.IllegalArgumentException: Unknown or invalid command '/data
 [14May2025 00:50:28.625] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
 [14May2025 00:50:29.632] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
 [14May2025 00:50:36.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11629ms or 232 ticks behind
+[14May2025 00:58:02.294] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@40466d88
+[14May2025 00:58:02.313] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nercore270[/127.103.205.56:55255] logged in with entity id 1842 at (-6.480726986863873, 65.0, -167.0028930929874)
+[14May2025 00:58:02.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nercore270 joined the game
+[14May2025 00:58:02.447] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('Nercore270') Connected! Syncing Supporters to Client Side!
+[14May2025 00:58:02.449] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('Nercore270')...
+[14May2025 00:58:49.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> se nos unde el barco
+[14May2025 00:59:07.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> lo veo invisible
+[14May2025 00:59:17.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> q va ser
+[14May2025 00:59:22.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> seguime
+[14May2025 00:59:59.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> dale click dercho al coso aca
+[14May2025 01:00:06.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> ahora si pero no veo el agua
+[14May2025 01:00:18.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> el agua del mar o del barco?
+[14May2025 01:00:19.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> voy a cambiar los shaders a ver si es ealgo de eso
+[14May2025 01:00:26.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> todo
+[14May2025 01:00:35.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> el barco se buguea a veces pero el agua ni idea
+[14May2025 01:01:02.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> ahora si
+[14May2025 01:01:10.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> puse cualquier shader y despues lo saque
+[14May2025 01:01:22.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> se pueden poner baules?
+[14May2025 01:01:31.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> claro
+[14May2025 01:01:38.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> re cheto como se maneja
+[14May2025 01:01:40.042] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity bonesandswords:cast_away_skeleton but it was marked as removed already
+[14May2025 01:01:57.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> estaba pensando remodelar este barco y sacar la parte de abajo que es la que esta llena de agua
+[14May2025 01:02:09.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> ajhsfdgasfdjkasd
+[14May2025 01:02:41.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> los cofres estan sin saquear
+[14May2025 01:03:18.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> usa la animacion de nadar para pasar por un bloque
+[14May2025 01:04:21.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> ya agarre los cofres
+[14May2025 01:04:42.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> podemos usar este barco
+[14May2025 01:04:43.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> o
+[14May2025 01:04:47.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> hacer uno propio
+[14May2025 01:05:04.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> y ponerle motores
+[14May2025 01:05:11.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> para vamos a agarrar lo del barco de la casita y nos piramos
+[14May2025 01:05:14.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> en este
+[14May2025 01:05:27.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> estuve viendo y los motores son a leña, tenemos que alimentarlos
+[14May2025 01:06:58.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> te sigo
