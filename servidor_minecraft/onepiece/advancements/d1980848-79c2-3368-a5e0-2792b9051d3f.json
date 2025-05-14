@@ -3270,6 +3270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-14 01:06:43 +0000"
+    },
+    "done": true
+  },
   "oldguns:recipes/oldguns/large_iron_barrel": {
     "criteria": {
       "has_iron_ingot": "2025-05-13 21:10:35 +0000"

@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "oldguns:recipes/oldguns/small_iron_musket_ball": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-14 01:04:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-05-13 20:57:21 +0000"
@@ -116,6 +122,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-13 20:53:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-14 01:04:38 +0000"
     },
     "done": true
   },
@@ -227,6 +239,12 @@
     },
     "done": true
   },
+  "oldguns:recipes/oldguns/small_iron_flared_barrel": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-14 01:04:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-05-13 21:13:56 +0000"
@@ -272,6 +290,12 @@
   "smallships:recipes/bop_umbran_drakkar": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-05-14 01:04:40 +0000"
     },
     "done": true
   },
@@ -829,6 +853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-14 01:04:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-13 20:57:21 +0000"
@@ -929,6 +959,12 @@
   "smallships:recipes/lotr_lairelosse_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "oldguns:recipes/oldguns/small_iron_birdshot": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-14 01:04:29 +0000"
     },
     "done": true
   },
@@ -1103,6 +1139,12 @@
   "smallships:recipes/spruce_dhow": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "oldguns:recipes/oldguns/medium_iron_birdshot": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-14 01:04:29 +0000"
     },
     "done": true
   },
@@ -1397,6 +1439,12 @@
     },
     "done": true
   },
+  "oldguns:recipes/oldguns/tiny_iron_barrel": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-14 01:04:29 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_willow_war_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -1559,6 +1607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-14 01:04:32 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_aspen_rowboat": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -1574,6 +1628,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-05-13 23:55:56 +0000"
+    },
+    "done": true
+  },
+  "oldguns:recipes/oldguns/large_iron_birdshot": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-14 01:04:29 +0000"
     },
     "done": true
   },
@@ -1610,6 +1670,12 @@
   "smallships:recipes/lotr_larch_dhow": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-14 01:04:38 +0000"
     },
     "done": true
   },
@@ -1700,6 +1766,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-13 23:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-14 01:04:38 +0000"
     },
     "done": true
   },
@@ -2017,6 +2089,12 @@
   "smallships:recipes/bop_cherry_dhow": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-14 01:04:38 +0000"
     },
     "done": true
   },
@@ -2399,6 +2477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-14 01:04:39 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_redwood_dhow": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -2441,9 +2525,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-14 01:04:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-05-13 23:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-14 01:04:39 +0000"
     },
     "done": true
   },
@@ -2615,6 +2711,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-05-14 01:04:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-05-13 21:17:03 +0000"
@@ -2636,6 +2738,12 @@
   "smallships:recipes/spruce_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-14 01:04:32 +0000"
     },
     "done": true
   },
@@ -3000,6 +3108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-14 01:04:29 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_green_oak_rowboat": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -3063,6 +3177,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-14 01:04:37 +0000"
     },
     "done": true
   },

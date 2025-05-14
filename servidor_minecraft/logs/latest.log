@@ -334,3 +334,6 @@ Caused by: java.lang.IllegalArgumentException: Unknown or invalid command '/data
 [14May2025 01:05:14.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> en este
 [14May2025 01:05:27.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> estuve viendo y los motores son a leña, tenemos que alimentarlos
 [14May2025 01:06:58.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> te sigo
+[14May2025 01:08:42.665] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nercore270 lost connection: Disconnected
+[14May2025 01:08:42.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nercore270 left the game
+[14May2025 01:12:12.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon was killed by Legendary Master Dugong using Jishin Ho
