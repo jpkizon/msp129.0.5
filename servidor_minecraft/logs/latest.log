@@ -337,3 +337,6 @@ Caused by: java.lang.IllegalArgumentException: Unknown or invalid command '/data
 [14May2025 01:08:42.665] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nercore270 lost connection: Disconnected
 [14May2025 01:08:42.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nercore270 left the game
 [14May2025 01:12:12.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon was killed by Legendary Master Dugong using Jishin Ho
+[14May2025 01:29:12.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon has made the advancement [You Are A Pirate]
+[14May2025 01:34:12.507] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: jpkizon lost connection: Disconnected
+[14May2025 01:34:12.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon left the game

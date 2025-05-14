@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-05-14 01:34:02 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_mallorn_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -683,6 +689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-05-14 01:34:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2025-05-13 20:53:09 +0000"
@@ -805,6 +817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-05-14 01:34:02 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cherry_brigg": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -904,6 +922,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-13 20:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-05-14 01:34:02 +0000"
     },
     "done": true
   },
@@ -1043,6 +1067,12 @@
   "oldguns:recipes/oldguns/gold_trigger_assembly": {
     "criteria": {
       "has_gold_ingot": "2025-05-13 23:41:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-05-14 01:29:12 +0000"
     },
     "done": true
   },
@@ -1253,6 +1283,12 @@
   "smallships:recipes/envi_wisteria_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-05-14 01:34:02 +0000"
     },
     "done": true
   },
@@ -1877,6 +1913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-05-14 01:34:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-14 01:23:31 +0000"
@@ -1904,6 +1946,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-05-13 21:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-05-14 01:34:02 +0000"
     },
     "done": true
   },
@@ -2278,6 +2326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-05-14 01:34:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-13 20:38:43 +0000"
@@ -2633,6 +2687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-05-14 01:34:02 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_rotten_war_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -2690,6 +2750,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-13 23:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-05-14 01:34:02 +0000"
     },
     "done": true
   },
@@ -3011,6 +3077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-05-14 01:34:02 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_brigg": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -3153,6 +3225,12 @@
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2025-05-13 20:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-05-14 01:34:02 +0000"
     },
     "done": true
   },
@@ -3378,6 +3456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-05-14 01:34:02 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_pear_brigg": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -3402,6 +3486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-05-14 01:34:02 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_maple_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -3423,6 +3513,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-13 20:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-05-14 01:34:02 +0000"
     },
     "done": true
   },
