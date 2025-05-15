@@ -1,85 +1,81 @@
-[14May2025 00:47:14.821] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[14May2025 00:47:14.824] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.27 by Ubuntu
-[14May2025 00:47:15.431] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[14May2025 00:47:15.523] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/msp129.0.5/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[14May2025 00:47:16.736] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[14May2025 00:47:16.915] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[14May2025 00:47:16.929] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[14May2025 00:47:18.952] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
-[14May2025 00:47:18.962] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[14May2025 00:47:19.634] [main/WARN] [mixin/]: Reference map 'eureka-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
-[14May2025 00:47:21.630] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/actors/BlockBreakingKineticTileEntity (java.lang.ClassNotFoundException: null)
-[14May2025 00:47:21.631] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.actors.BlockBreakingKineticTileEntity was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlockBreakingKineticTileEntity
-[14May2025 00:47:21.634] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/millstone/MillstoneBlock (java.lang.ClassNotFoundException: null)
-[14May2025 00:47:21.635] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.millstone.MillstoneBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
-[14May2025 00:47:21.639] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/processing/BasinBlock (java.lang.ClassNotFoundException: null)
-[14May2025 00:47:21.640] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.processing.BasinBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
-[14May2025 00:47:21.641] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/block/chute/AbstractChuteBlock (java.lang.ClassNotFoundException: null)
-[14May2025 00:47:21.643] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.block.chute.AbstractChuteBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
-[14May2025 00:47:21.647] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/structureMovement/render/ContraptionRenderInfo (java.lang.ClassNotFoundException: null)
-[14May2025 00:47:21.648] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.structureMovement.render.ContraptionRenderInfo was not found valkyrienskies-forge.mixins.json:compat.create.MixinContraptionRenderInfo
-[14May2025 00:47:21.650] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/crusher/CrushingWheelBlock (java.lang.ClassNotFoundException: null)
-[14May2025 00:47:21.652] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.crusher.CrushingWheelBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinCrushingWheelBlock
-[14May2025 00:47:21.655] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/structureMovement/render/RenderedContraption (java.lang.ClassNotFoundException: null)
-[14May2025 00:47:21.656] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.structureMovement.render.RenderedContraption was not found valkyrienskies-forge.mixins.json:compat.create.MixinRenderedContraption
-[14May2025 00:47:21.659] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/material/MaterialManager (java.lang.ClassNotFoundException: null)
-[14May2025 00:47:21.660] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.material.MaterialManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MaterialManagerAccessor
-[14May2025 00:47:21.664] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/InstanceManager (java.lang.ClassNotFoundException: null)
-[14May2025 00:47:21.666] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.InstanceManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinInstanceManager
-[14May2025 00:47:21.671] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/InstanceWorld (java.lang.ClassNotFoundException: null)
-[14May2025 00:47:21.672] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.InstanceWorld was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinInstanceWorld
-[14May2025 00:47:21.675] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/tile/TileInstanceManager (java.lang.ClassNotFoundException: null)
-[14May2025 00:47:21.675] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.tile.TileInstanceManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinTileInstanceManager
-[14May2025 00:47:21.677] [main/WARN] [mixin/]: Error loading class: cofh/core/tileentity/TileCoFH (java.lang.ClassNotFoundException: null)
-[14May2025 00:47:25.733] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping pehkui.mixins.json:reach.PlayerEntityMixin->@ModifyConstant::pehkui$attack$distance(D)D with priority 990, already redirected by mine-mine-no-mi.mixins.json:PlayerEntityMixin->@ModifyConstant::getActualAttackRange(D)D with priority 990
-[14May2025 00:47:35.017] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[14May2025 00:47:35.021] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[14May2025 00:47:35.021] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[14May2025 00:47:35.022] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[14May2025 00:47:35.074] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `islands` for name `islands`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[14May2025 00:47:39.977] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]: Permissions registered:
-[14May2025 00:47:40.003] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability
-[14May2025 00:47:40.003] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability.reset_cooldown
-[14May2025 00:47:40.003] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability_protection
-[14May2025 00:47:40.003] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.belly
-[14May2025 00:47:40.003] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.bounty
-[14May2025 00:47:40.004] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.challenge
-[14May2025 00:47:40.004] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.history
-[14May2025 00:47:40.007] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.list
-[14May2025 00:47:40.007] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_player
-[14May2025 00:47:40.007] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.doriki
-[14May2025 00:47:40.010] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.extol
-[14May2025 00:47:40.010] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.hakiexp
-[14May2025 00:47:40.010] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.issue_bounty
-[14May2025 00:47:40.010] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.loyalty
-[14May2025 00:47:40.010] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.quest
-[14May2025 00:47:40.010] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf
-[14May2025 00:47:40.010] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf.self
-[14May2025 00:47:40.010] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.item.buster_call
-[14May2025 00:47:42.531] [modloading-worker-0/INFO] [STDOUT/]: [org.valkyrienskies.core.config.VSConfigClass$Companion:registerNetworkHandlers:199]: registering network handlers
-[14May2025 00:47:42.708] [modloading-worker-1/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
-[14May2025 00:47:42.710] [modloading-worker-1/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: Defaulting to no-operation (NOP) logger implementation
-[14May2025 00:47:42.710] [modloading-worker-1/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-[14May2025 00:47:43.563] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[14May2025 00:47:43.563] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[14May2025 00:47:43.787] [modloading-worker-1/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Loading Supporter Data...
-[14May2025 00:47:44.402] [modloading-worker-1/INFO] [xyz.apex.repack.com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[14May2025 00:47:44.687] [modloading-worker-1/INFO] [xyz.apex.repack.com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[14May2025 00:47:44.822] [ApexCore Supporter Reload Thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Loaded 4 Supporters!
-[14May2025 00:47:50.211] [main/INFO] [patchouli/]: Loaded book jsons on Thread[main,5,main] in 91 ms
-[14May2025 00:47:52.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [oldguns] Starting version check at https://www.zach2039.com/mods/oldguns/update.json
-[14May2025 00:47:52.525] [main/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Received Furniture Station Result ('apexcore:player_plushie') from Mod: 'apexcore'
-[14May2025 00:47:52.551] [main/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Received Furniture Station Result ('apexcore:player_plushie') from Mod: 'apexcore'
-[14May2025 00:47:52.551] [main/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Received Furniture Station Result ('apexcore:player_plushie') from Mod: 'apexcore'
-[14May2025 00:47:52.551] [main/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Received Furniture Station Result ('apexcore:player_plushie') from Mod: 'apexcore'
-[14May2025 00:47:52.647] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[15May2025 00:05:18.883] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[15May2025 00:05:18.902] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.27 by Ubuntu
+[15May2025 00:05:22.930] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[15May2025 00:05:23.137] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/msp129.0.5/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[15May2025 00:05:25.459] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15May2025 00:05:26.705] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15May2025 00:05:26.722] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15May2025 00:05:30.195] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[15May2025 00:05:30.212] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[15May2025 00:05:32.214] [main/WARN] [mixin/]: Reference map 'eureka-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[15May2025 00:05:35.977] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/actors/BlockBreakingKineticTileEntity (java.lang.ClassNotFoundException: null)
+[15May2025 00:05:35.980] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.actors.BlockBreakingKineticTileEntity was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlockBreakingKineticTileEntity
+[15May2025 00:05:35.988] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/millstone/MillstoneBlock (java.lang.ClassNotFoundException: null)
+[15May2025 00:05:35.989] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.millstone.MillstoneBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
+[15May2025 00:05:35.991] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/processing/BasinBlock (java.lang.ClassNotFoundException: null)
+[15May2025 00:05:35.993] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.processing.BasinBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
+[15May2025 00:05:35.995] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/block/chute/AbstractChuteBlock (java.lang.ClassNotFoundException: null)
+[15May2025 00:05:35.996] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.block.chute.AbstractChuteBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
+[15May2025 00:05:35.998] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/structureMovement/render/ContraptionRenderInfo (java.lang.ClassNotFoundException: null)
+[15May2025 00:05:35.999] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.structureMovement.render.ContraptionRenderInfo was not found valkyrienskies-forge.mixins.json:compat.create.MixinContraptionRenderInfo
+[15May2025 00:05:36.001] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/crusher/CrushingWheelBlock (java.lang.ClassNotFoundException: null)
+[15May2025 00:05:36.002] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.crusher.CrushingWheelBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinCrushingWheelBlock
+[15May2025 00:05:36.004] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/structureMovement/render/RenderedContraption (java.lang.ClassNotFoundException: null)
+[15May2025 00:05:36.005] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.structureMovement.render.RenderedContraption was not found valkyrienskies-forge.mixins.json:compat.create.MixinRenderedContraption
+[15May2025 00:05:36.008] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/material/MaterialManager (java.lang.ClassNotFoundException: null)
+[15May2025 00:05:36.008] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.material.MaterialManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MaterialManagerAccessor
+[15May2025 00:05:36.012] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/InstanceManager (java.lang.ClassNotFoundException: null)
+[15May2025 00:05:36.013] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.InstanceManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinInstanceManager
+[15May2025 00:05:36.017] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/InstanceWorld (java.lang.ClassNotFoundException: null)
+[15May2025 00:05:36.018] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.InstanceWorld was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinInstanceWorld
+[15May2025 00:05:36.022] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/tile/TileInstanceManager (java.lang.ClassNotFoundException: null)
+[15May2025 00:05:36.034] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.tile.TileInstanceManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinTileInstanceManager
+[15May2025 00:05:36.035] [main/WARN] [mixin/]: Error loading class: cofh/core/tileentity/TileCoFH (java.lang.ClassNotFoundException: null)
+[15May2025 00:05:45.017] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping pehkui.mixins.json:reach.PlayerEntityMixin->@ModifyConstant::pehkui$attack$distance(D)D with priority 990, already redirected by mine-mine-no-mi.mixins.json:PlayerEntityMixin->@ModifyConstant::getActualAttackRange(D)D with priority 990
+[15May2025 00:06:00.887] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15May2025 00:06:00.891] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15May2025 00:06:00.891] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15May2025 00:06:00.896] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15May2025 00:06:00.971] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `islands` for name `islands`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[15May2025 00:06:10.407] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]: Permissions registered:
+[15May2025 00:06:10.434] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability
+[15May2025 00:06:10.444] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability.reset_cooldown
+[15May2025 00:06:10.445] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability_protection
+[15May2025 00:06:10.446] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.belly
+[15May2025 00:06:10.447] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.bounty
+[15May2025 00:06:10.448] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.challenge
+[15May2025 00:06:10.450] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.history
+[15May2025 00:06:10.452] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.list
+[15May2025 00:06:10.453] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_player
+[15May2025 00:06:10.454] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.doriki
+[15May2025 00:06:10.456] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.extol
+[15May2025 00:06:10.458] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.hakiexp
+[15May2025 00:06:10.460] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.issue_bounty
+[15May2025 00:06:10.462] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.loyalty
+[15May2025 00:06:10.464] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.quest
+[15May2025 00:06:10.467] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf
+[15May2025 00:06:10.469] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf.self
+[15May2025 00:06:10.471] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.item.buster_call
+[15May2025 00:06:13.880] [modloading-worker-0/INFO] [STDOUT/]: [org.valkyrienskies.core.config.VSConfigClass$Companion:registerNetworkHandlers:199]: registering network handlers
+[15May2025 00:06:14.011] [modloading-worker-1/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+[15May2025 00:06:14.014] [modloading-worker-1/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: Defaulting to no-operation (NOP) logger implementation
+[15May2025 00:06:14.015] [modloading-worker-1/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[15May2025 00:06:16.248] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[15May2025 00:06:16.249] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[15May2025 00:06:16.634] [modloading-worker-1/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Loading Supporter Data...
+[15May2025 00:06:17.894] [modloading-worker-1/INFO] [xyz.apex.repack.com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[15May2025 00:06:18.464] [modloading-worker-1/INFO] [xyz.apex.repack.com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[15May2025 00:06:18.469] [ApexCore Supporter Reload Thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Loaded 4 Supporters!
+[15May2025 00:06:27.205] [main/INFO] [patchouli/]: Loaded book jsons on Thread[main,5,main] in 255 ms
+[15May2025 00:06:31.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [oldguns] Starting version check at https://www.zach2039.com/mods/oldguns/update.json
+[15May2025 00:06:31.661] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[14May2025 00:47:52.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Starting version check at https://mrcrayfish.com/modupdatejson?id=obfuscate
-[14May2025 00:47:52.919] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[15May2025 00:06:31.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Starting version check at https://mrcrayfish.com/modupdatejson?id=obfuscate
+[15May2025 00:06:31.907] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=obfuscate
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
@@ -103,8 +99,8 @@ Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL:
 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334) ~[?:?]
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:145) ~[forge:?]
 	... 3 more
-[14May2025 00:47:52.921] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/Ship-Mod/main/update.json
-[14May2025 00:47:52.960] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[15May2025 00:06:31.944] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/Ship-Mod/main/update.json
+[15May2025 00:06:32.005] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 10 column 4 path $.
 	at com.google.gson.Gson.fromJson(Gson.java:902) ~[server-1.16.5-20210115.111550-extra.jar:?]
 	at com.google.gson.Gson.fromJson(Gson.java:852) ~[server-1.16.5-20210115.111550-extra.jar:?]
@@ -121,32 +117,36 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[server-1.16.5-20210115.111550-extra.jar:?]
 	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
 	... 6 more
-[14May2025 00:47:52.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[14May2025 00:47:53.209] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[14May2025 00:47:53.210] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://raw.githubusercontent.com/ApexStudios-Dev/Version/master/fantasyfurniture.json
-[14May2025 00:47:53.233] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: AHEAD Current: 2.0.2 Target: null
-[14May2025 00:47:58.815] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14May2025 00:47:59.761] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, compute, scale_type, entity] and [scale, compute, scale_type, scalingFactor] with inputs: [0123]
-[14May2025 00:47:59.775] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, compute, scale_type, scalingFactor] and [scale, compute, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[14May2025 00:47:59.778] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, delay, get, scale_type] and [scale, delay, get, entity] with inputs: [base]
-[14May2025 00:47:59.780] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, delay, reset, scale_type] and [scale, delay, reset, targets] with inputs: [base]
-[14May2025 00:47:59.782] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, easing, get, scale_type] and [scale, easing, get, entity] with inputs: [base]
-[14May2025 00:47:59.786] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, easing, reset, scale_type] and [scale, easing, reset, targets] with inputs: [base]
-[14May2025 00:47:59.788] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, entity] and [scale, get, scalingFactor] with inputs: [0123]
-[14May2025 00:47:59.790] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scale_type] and [scale, get, entity] with inputs: [base]
-[14May2025 00:47:59.794] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scale_type, entity] and [scale, get, scale_type, scalingFactor] with inputs: [0123]
-[14May2025 00:47:59.799] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scale_type, scalingFactor] and [scale, get, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[14May2025 00:47:59.805] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scalingFactor] and [scale, get, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
-[14May2025 00:47:59.815] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, persist, reset, scale_type] and [scale, persist, reset, targets] with inputs: [base]
-[14May2025 00:47:59.823] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, reset, scale_type] and [scale, reset, targets] with inputs: [base]
-[14May2025 00:47:59.842] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14May2025 00:47:59.843] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14May2025 00:47:59.849] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14May2025 00:47:59.852] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14May2025 00:47:59.861] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14May2025 00:47:59.888] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, FarmersDelight-1.16.5-0.6.0.jar, TaxOceanVillager+M.1.16+ForM-1.1.2.jar, mine-mine-no-mi-1.16.5-0.10.5.jar, cannons!.jar, oldguns-1.16.5-3.0.7-35.jar, jei-1.16.5-7.8.0.1009.jar, Pehkui-3.7.8+1.16.5-forge.jar, Swashbucklers 0.3 1.16.jar, betterleveling-1.16.5-0.6.2.jar, obscure_api-11.jar, curios-forge-1.16.5-4.1.0.0.jar, Patchouli-1.16.4-53.3.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, BetterThirdPerson-Forge-1.16.4-1.9.0.jar, more_ships_1.16.5_4.1.jar, obfuscate-0.6.3-1.16.5.jar, architectury-419699-3857643.jar, cloth-config-forge-4.16.91.jar, smallships-1.16.5-1.10.1.jar, valkyrienskies-116-2.0.0-alpha6.jar, eureka-1.0.0-alpha7.jar, islands-1.16.5-1.4.2.jar, forge-1.16.5-36.2.42-universal.jar, Atum-1.16.5-2.2.12.jar, apexcore-1.16.5-1.10.0.jar, fantasyfurniture-1.16.5-2.0.2.jar, Aquaculture-1.16.5-2.1.23.jar, aquamirae-5.4.API11.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, BonesAndSwordsBetaR0.3.jar
-[14May2025 00:48:04.311] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 14 recipes
-[14May2025 00:48:05.244] [Worker-Main-2/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table mineminenomi:blocks/moss
+[15May2025 00:06:32.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15May2025 00:06:32.057] [main/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Received Furniture Station Result ('apexcore:player_plushie') from Mod: 'apexcore'
+[15May2025 00:06:32.113] [main/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Received Furniture Station Result ('apexcore:player_plushie') from Mod: 'apexcore'
+[15May2025 00:06:32.113] [main/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Received Furniture Station Result ('apexcore:player_plushie') from Mod: 'apexcore'
+[15May2025 00:06:32.114] [main/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Received Furniture Station Result ('apexcore:player_plushie') from Mod: 'apexcore'
+[15May2025 00:06:32.377] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[15May2025 00:06:32.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://raw.githubusercontent.com/ApexStudios-Dev/Version/master/fantasyfurniture.json
+[15May2025 00:06:32.453] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: AHEAD Current: 2.0.2 Target: null
+[15May2025 00:06:43.202] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15May2025 00:06:47.479] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, compute, scale_type, entity] and [scale, compute, scale_type, scalingFactor] with inputs: [0123]
+[15May2025 00:06:47.510] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, compute, scale_type, scalingFactor] and [scale, compute, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[15May2025 00:06:47.523] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, delay, get, scale_type] and [scale, delay, get, entity] with inputs: [base]
+[15May2025 00:06:47.527] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, delay, reset, scale_type] and [scale, delay, reset, targets] with inputs: [base]
+[15May2025 00:06:47.541] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, easing, get, scale_type] and [scale, easing, get, entity] with inputs: [base]
+[15May2025 00:06:47.545] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, easing, reset, scale_type] and [scale, easing, reset, targets] with inputs: [base]
+[15May2025 00:06:47.554] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, entity] and [scale, get, scalingFactor] with inputs: [0123]
+[15May2025 00:06:47.559] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scale_type] and [scale, get, entity] with inputs: [base]
+[15May2025 00:06:47.565] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scale_type, entity] and [scale, get, scale_type, scalingFactor] with inputs: [0123]
+[15May2025 00:06:47.572] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scale_type, scalingFactor] and [scale, get, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[15May2025 00:06:47.575] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scalingFactor] and [scale, get, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[15May2025 00:06:47.577] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, persist, reset, scale_type] and [scale, persist, reset, targets] with inputs: [base]
+[15May2025 00:06:47.580] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, reset, scale_type] and [scale, reset, targets] with inputs: [base]
+[15May2025 00:06:47.592] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15May2025 00:06:47.596] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15May2025 00:06:47.603] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15May2025 00:06:47.613] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15May2025 00:06:47.619] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15May2025 00:06:47.646] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, FarmersDelight-1.16.5-0.6.0.jar, TaxOceanVillager+M.1.16+ForM-1.1.2.jar, mine-mine-no-mi-1.16.5-0.10.5.jar, cannons!.jar, oldguns-1.16.5-3.0.7-35.jar, jei-1.16.5-7.8.0.1009.jar, Pehkui-3.7.8+1.16.5-forge.jar, Swashbucklers 0.3 1.16.jar, betterleveling-1.16.5-0.6.2.jar, obscure_api-11.jar, curios-forge-1.16.5-4.1.0.0.jar, Patchouli-1.16.4-53.3.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, BetterThirdPerson-Forge-1.16.4-1.9.0.jar, more_ships_1.16.5_4.1.jar, obfuscate-0.6.3-1.16.5.jar, architectury-419699-3857643.jar, cloth-config-forge-4.16.91.jar, smallships-1.16.5-1.10.1.jar, valkyrienskies-116-2.0.0-alpha6.jar, eureka-1.0.0-alpha7.jar, islands-1.16.5-1.4.2.jar, forge-1.16.5-36.2.42-universal.jar, Atum-1.16.5-2.2.12.jar, apexcore-1.16.5-1.10.0.jar, fantasyfurniture-1.16.5-2.0.2.jar, Aquaculture-1.16.5-2.1.23.jar, aquamirae-5.4.API11.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, BonesAndSwordsBetaR0.3.jar
+[15May2025 00:06:57.677] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 14 recipes
+[15May2025 00:06:59.431] [Worker-Main-2/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table mineminenomi:blocks/moss
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'mineminenomi:moss'
 	at net.minecraft.util.JSONUtils.func_219793_a(SourceFile:127) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -232,8 +232,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[14May2025 00:48:06.386] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[14May2025 00:48:06.387] [Worker-Main-2/ERROR] [net.minecraft.resources.FunctionReloader/]: Failed to load function bonesandswords:chestloot
+[15May2025 00:07:01.758] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[15May2025 00:07:01.765] [Worker-Main-2/ERROR] [net.minecraft.resources.FunctionReloader/]: Failed to load function bonesandswords:chestloot
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Unknown or invalid command '/data merge block ~ ~-2 ~ {LootTable:"PirateLoot"}' on line 1 (did you mean 'data'? Do not use a preceding forwards slash.)
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) [?:?]
@@ -249,94 +249,65 @@ Caused by: java.lang.IllegalArgumentException: Unknown or invalid command '/data
 	at net.minecraft.resources.FunctionReloader.func_240935_a_(SourceFile:86) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700) ~[?:?]
 	... 6 more
-[14May2025 00:48:06.893] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1848 advancements
-[14May2025 00:48:13.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[14May2025 00:48:13.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[14May2025 00:48:13.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[14May2025 00:48:13.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[14May2025 00:48:13.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[14May2025 00:48:13.501] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[14May2025 00:48:13.671] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14May2025 00:48:13.671] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[14May2025 00:48:13.672] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14May2025 00:48:13.672] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[14May2025 00:48:13.737] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./onepiece/serverconfig/oldguns-server.toml is not correct. Correcting
-[14May2025 00:48:13.749] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.recipeSettings.designNotesSettings.designNotesRequiredItems was corrected from [oldguns:flintlock_mechanism, oldguns:caplock_mechanism, oldguns:matchlock_musketoon, oldguns:matchlock_blunderbuss_pistol, oldguns:wheellock_doublebarrel_pistol, oldguns:wheellock_musketoon, oldguns:wheellock_blunderbuss_pistol, oldguns:flintlock_duckfoot_derringer, oldguns:flintlock_pepperbox_pistol, oldguns:flintlock_musketoon, oldguns:flintlock_nock_gun, oldguns:flintlock_blunderbuss_pistol] to its default, [oldguns:flintlock_mechanism, oldguns:caplock_mechanism, oldguns:matchlock_musketoon, oldguns:matchlock_blunderbuss_pistol, oldguns:wheellock_doublebarrel_pistol, oldguns:wheellock_musketoon, oldguns:wheellock_blunderbuss_pistol, oldguns:flintlock_duckfoot_derringer, oldguns:flintlock_pepperbox_pistol, oldguns:flintlock_musketoon, oldguns:flintlock_nock_gun, oldguns:flintlock_blunderbuss_pistol]. 
-[14May2025 00:48:13.752] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.recipeSettings.blackPowderManufactureSettings.niterProductionSettings.lowRefuseAnimals was corrected from [entity.minecraft.chicken, entity.minecraft.pig, entity.minecraft.sheep, entity.minecraft.llama] to its default, [entity.minecraft.chicken, entity.minecraft.pig, entity.minecraft.sheep, entity.minecraft.llama]. 
-[14May2025 00:48:13.752] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.recipeSettings.blackPowderManufactureSettings.niterProductionSettings.highRefuseAnimals was corrected from [entity.minecraft.horse, entity.minecraft.cow] to its default, [entity.minecraft.horse, entity.minecraft.cow]. 
-[14May2025 00:48:13.787] [Thread-0/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/msp129.0.5/servidor_minecraft/./onepiece/serverconfig/oldguns-server.toml is not correct. Correcting
-[14May2025 00:48:13.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "onepiece"
-[14May2025 00:48:15.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[14May2025 00:48:18.170] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[14May2025 00:48:18.170] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[14May2025 00:48:18.170] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[14May2025 00:48:18.171] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[14May2025 00:48:18.171] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[14May2025 00:48:18.171] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[14May2025 00:48:18.325] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[14May2025 00:48:18.907] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 25%
-[14May2025 00:48:19.331] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
-[14May2025 00:48:19.956] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 4639 ms
-[14May2025 00:48:19.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (6.238s)! For help, type "help"
-[14May2025 00:48:20.554] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[14May2025 00:48:22.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[14May2025 00:48:25.387] [Server thread/WARN] [mixin/]: @ModifyConstant conflict. Skipping pehkui.mixins.json:reach.compat118minus.ServerPlayNetworkHandlerMixin->@ModifyConstant::pehkui$onPlayerInteractEntity$distance(D)D with priority 990, already redirected by mine-mine-no-mi.mixins.json:ServerPlayNetHandlerMixin->@ModifyConstant::getActualAttackRange(DLnet/minecraft/network/play/client/CUseEntityPacket;)D with priority 1000
-[14May2025 00:48:25.388] [Server thread/WARN] [mixin/]: @ModifyConstant conflict. Skipping pehkui.mixins.json:reach.compat118minus.ServerPlayNetworkHandlerMixin->@ModifyConstant::pehkui$onPlayerInteractEntity$distance(D)D with priority 990, already redirected by mine-mine-no-mi.mixins.json:ServerPlayNetHandlerMixin->@ModifyConstant::getActualAttackRange(DLnet/minecraft/network/play/client/CUseEntityPacket;)D with priority 1000
-[14May2025 00:48:32.069] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@627cd190
-[14May2025 00:48:32.142] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: jpkizon[/127.162.219.226:48367] logged in with entity id 138 at (-213.79685051739216, 65.84414603824553, -24.21004633232951)
-[14May2025 00:48:32.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon joined the game
-[14May2025 00:48:32.609] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('jpkizon') Connected! Syncing Supporters to Client Side!
-[14May2025 00:48:32.615] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('jpkizon')...
-[14May2025 00:48:32.618] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Precaching Furniture Station Crafting Results...
-[14May2025 00:48:42.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
-[14May2025 00:49:08.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10674ms or 213 ticks behind
-[14May2025 00:49:12.669] [Server thread/WARN] [org.valkyrienskies.core.networking.UdpServerImpl/]: There were 5 cases of failed connections in a row, is the UDP port accessible?
-[14May2025 00:49:12.672] [Server thread/INFO] [org.valkyrienskies.core.networking.UdpServerImpl/]: By disabling UDP this warning shall not be printed anymore.
-[14May2025 00:49:30.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7406ms or 148 ticks behind
-[14May2025 00:49:49.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3674ms or 73 ticks behind
-[14May2025 00:50:03.147] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity bonesandswords:cast_away_skeleton but it was marked as removed already
-[14May2025 00:50:09.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5759ms or 115 ticks behind
-[14May2025 00:50:27.619] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[14May2025 00:50:28.625] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[14May2025 00:50:29.632] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
-[14May2025 00:50:36.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11629ms or 232 ticks behind
-[14May2025 00:58:02.294] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@40466d88
-[14May2025 00:58:02.313] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nercore270[/127.103.205.56:55255] logged in with entity id 1842 at (-6.480726986863873, 65.0, -167.0028930929874)
-[14May2025 00:58:02.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nercore270 joined the game
-[14May2025 00:58:02.447] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('Nercore270') Connected! Syncing Supporters to Client Side!
-[14May2025 00:58:02.449] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('Nercore270')...
-[14May2025 00:58:49.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> se nos unde el barco
-[14May2025 00:59:07.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> lo veo invisible
-[14May2025 00:59:17.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> q va ser
-[14May2025 00:59:22.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> seguime
-[14May2025 00:59:59.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> dale click dercho al coso aca
-[14May2025 01:00:06.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> ahora si pero no veo el agua
-[14May2025 01:00:18.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> el agua del mar o del barco?
-[14May2025 01:00:19.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> voy a cambiar los shaders a ver si es ealgo de eso
-[14May2025 01:00:26.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> todo
-[14May2025 01:00:35.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> el barco se buguea a veces pero el agua ni idea
-[14May2025 01:01:02.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> ahora si
-[14May2025 01:01:10.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> puse cualquier shader y despues lo saque
-[14May2025 01:01:22.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> se pueden poner baules?
-[14May2025 01:01:31.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> claro
-[14May2025 01:01:38.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> re cheto como se maneja
-[14May2025 01:01:40.042] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity bonesandswords:cast_away_skeleton but it was marked as removed already
-[14May2025 01:01:57.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> estaba pensando remodelar este barco y sacar la parte de abajo que es la que esta llena de agua
-[14May2025 01:02:09.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> ajhsfdgasfdjkasd
-[14May2025 01:02:41.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> los cofres estan sin saquear
-[14May2025 01:03:18.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> usa la animacion de nadar para pasar por un bloque
-[14May2025 01:04:21.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> ya agarre los cofres
-[14May2025 01:04:42.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> podemos usar este barco
-[14May2025 01:04:43.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> o
-[14May2025 01:04:47.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> hacer uno propio
-[14May2025 01:05:04.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> y ponerle motores
-[14May2025 01:05:11.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> para vamos a agarrar lo del barco de la casita y nos piramos
-[14May2025 01:05:14.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Nercore270> en este
-[14May2025 01:05:27.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> estuve viendo y los motores son a leña, tenemos que alimentarlos
-[14May2025 01:06:58.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> te sigo
-[14May2025 01:08:42.665] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Nercore270 lost connection: Disconnected
-[14May2025 01:08:42.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nercore270 left the game
-[14May2025 01:12:12.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon was killed by Legendary Master Dugong using Jishin Ho
-[14May2025 01:29:12.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon has made the advancement [You Are A Pirate]
-[14May2025 01:34:12.507] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: jpkizon lost connection: Disconnected
-[14May2025 01:34:12.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon left the game
+[15May2025 00:07:02.313] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1848 advancements
+[15May2025 00:07:12.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[15May2025 00:07:12.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[15May2025 00:07:12.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[15May2025 00:07:12.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[15May2025 00:07:12.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[15May2025 00:07:12.658] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[15May2025 00:07:13.091] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15May2025 00:07:13.091] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[15May2025 00:07:13.092] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15May2025 00:07:13.092] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[15May2025 00:07:13.374] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./onepiece/serverconfig/oldguns-server.toml is not correct. Correcting
+[15May2025 00:07:13.395] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.recipeSettings.designNotesSettings.designNotesRequiredItems was corrected from [oldguns:flintlock_mechanism, oldguns:caplock_mechanism, oldguns:matchlock_musketoon, oldguns:matchlock_blunderbuss_pistol, oldguns:wheellock_doublebarrel_pistol, oldguns:wheellock_musketoon, oldguns:wheellock_blunderbuss_pistol, oldguns:flintlock_duckfoot_derringer, oldguns:flintlock_pepperbox_pistol, oldguns:flintlock_musketoon, oldguns:flintlock_nock_gun, oldguns:flintlock_blunderbuss_pistol] to its default, [oldguns:flintlock_mechanism, oldguns:caplock_mechanism, oldguns:matchlock_musketoon, oldguns:matchlock_blunderbuss_pistol, oldguns:wheellock_doublebarrel_pistol, oldguns:wheellock_musketoon, oldguns:wheellock_blunderbuss_pistol, oldguns:flintlock_duckfoot_derringer, oldguns:flintlock_pepperbox_pistol, oldguns:flintlock_musketoon, oldguns:flintlock_nock_gun, oldguns:flintlock_blunderbuss_pistol]. 
+[15May2025 00:07:13.397] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.recipeSettings.blackPowderManufactureSettings.niterProductionSettings.lowRefuseAnimals was corrected from [entity.minecraft.chicken, entity.minecraft.pig, entity.minecraft.sheep, entity.minecraft.llama] to its default, [entity.minecraft.chicken, entity.minecraft.pig, entity.minecraft.sheep, entity.minecraft.llama]. 
+[15May2025 00:07:13.400] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.recipeSettings.blackPowderManufactureSettings.niterProductionSettings.highRefuseAnimals was corrected from [entity.minecraft.horse, entity.minecraft.cow] to its default, [entity.minecraft.horse, entity.minecraft.cow]. 
+[15May2025 00:07:13.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "onepiece"
+[15May2025 00:07:16.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[15May2025 00:07:22.376] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[15May2025 00:07:22.381] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[15May2025 00:07:22.384] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[15May2025 00:07:22.385] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[15May2025 00:07:22.386] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[15May2025 00:07:22.387] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[15May2025 00:07:22.387] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[15May2025 00:07:22.389] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[15May2025 00:07:22.389] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[15May2025 00:07:22.390] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[15May2025 00:07:22.392] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[15May2025 00:07:22.402] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[15May2025 00:07:22.449] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[15May2025 00:07:23.024] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[15May2025 00:07:23.454] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[15May2025 00:07:23.537] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 40%
+[15May2025 00:07:24.460] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[15May2025 00:07:25.463] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[15May2025 00:07:26.361] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 9461 ms
+[15May2025 00:07:26.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.028s)! For help, type "help"
+[15May2025 00:07:26.465] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[15May2025 00:07:27.474] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[15May2025 00:07:28.477] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[15May2025 00:07:29.480] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[15May2025 00:07:30.489] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[15May2025 00:07:30.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3870ms or 77 ticks behind
+[15May2025 00:08:07.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21184ms or 423 ticks behind
+[15May2025 00:08:37.979] [Server thread/WARN] [mixin/]: @ModifyConstant conflict. Skipping pehkui.mixins.json:reach.compat118minus.ServerPlayNetworkHandlerMixin->@ModifyConstant::pehkui$onPlayerInteractEntity$distance(D)D with priority 990, already redirected by mine-mine-no-mi.mixins.json:ServerPlayNetHandlerMixin->@ModifyConstant::getActualAttackRange(DLnet/minecraft/network/play/client/CUseEntityPacket;)D with priority 1000
+[15May2025 00:08:37.983] [Server thread/WARN] [mixin/]: @ModifyConstant conflict. Skipping pehkui.mixins.json:reach.compat118minus.ServerPlayNetworkHandlerMixin->@ModifyConstant::pehkui$onPlayerInteractEntity$distance(D)D with priority 990, already redirected by mine-mine-no-mi.mixins.json:ServerPlayNetHandlerMixin->@ModifyConstant::getActualAttackRange(DLnet/minecraft/network/play/client/CUseEntityPacket;)D with priority 1000
+[15May2025 00:09:07.985] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@46f3f2d
+[15May2025 00:09:08.036] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Nercore270[/127.141.214.184:59117] logged in with entity id 227 at (-32.42920010484915, 68.77999796943982, -178.32742948665071)
+[15May2025 00:09:08.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nercore270 joined the game
+[15May2025 00:09:08.511] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('Nercore270') Connected! Syncing Supporters to Client Side!
+[15May2025 00:09:08.515] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('Nercore270')...
+[15May2025 00:09:08.516] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Precaching Furniture Station Crafting Results...
+[15May2025 00:09:13.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[15May2025 00:09:42.148] [Server thread/WARN] [org.valkyrienskies.core.networking.UdpServerImpl/]: There were 5 cases of failed connections in a row, is the UDP port accessible?
+[15May2025 00:09:42.148] [Server thread/INFO] [org.valkyrienskies.core.networking.UdpServerImpl/]: By disabling UDP this warning shall not be printed anymore.
+[15May2025 00:13:41.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nercore270 was killed by Bandit Sniper
+[15May2025 00:14:54.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[15May2025 00:14:54.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: b re gay<--[HERE]
+[15May2025 00:14:59.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[15May2025 00:14:59.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: re gay<--[HERE]
+[15May2025 00:15:01.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[15May2025 00:15:01.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: say<--[HERE]
