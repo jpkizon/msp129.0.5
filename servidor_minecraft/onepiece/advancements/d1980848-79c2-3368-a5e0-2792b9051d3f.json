@@ -3534,6 +3534,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/root": {
+    "criteria": {
+      "unlock_challenge": "2025-05-15 00:20:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-13 21:10:35 +0000"
