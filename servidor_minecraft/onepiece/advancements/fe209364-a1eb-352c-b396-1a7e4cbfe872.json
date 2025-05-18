@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-05-18 00:40:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_wheat": "2025-05-18 00:06:41 +0000"
@@ -119,15 +125,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_palm_rowboat": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-05-18 00:40:41 +0000"
+    },
+    "done": true
+  },
+  "oldguns:recipes/oldguns/medium_grade_black_powder": {
+    "criteria": {
+      "has_charcoal": "2025-05-18 00:40:41 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_mahogany_brigg": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/golden_fishing_rod": {
+    "criteria": {
+      "has_gold": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-05-18 00:39:39 +0000"
     },
     "done": true
   },
@@ -401,6 +437,12 @@
     },
     "done": true
   },
+  "oldguns:recipes/oldguns/medium_grade_black_powder_vanilla": {
+    "criteria": {
+      "has_charcoal": "2025-05-18 00:40:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 00:06:38 +0000"
@@ -422,6 +464,18 @@
   "smallships:recipes/lotr_mallorn_rowboat": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/misc/key": {
+    "criteria": {
+      "has_gold": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 00:40:00 +0000"
     },
     "done": true
   },
@@ -569,6 +623,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-05-18 00:40:41 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/sail_item": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -608,6 +668,12 @@
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 00:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-18 00:40:00 +0000"
     },
     "done": true
   },
@@ -780,6 +846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_mirk_oak_rowboat": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -789,6 +861,12 @@
   "smallships:recipes/lotr_aspen_brigg": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-18 00:34:27 +0000"
     },
     "done": true
   },
@@ -852,6 +930,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-05-18 00:34:27 +0000"
+    },
+    "done": true
+  },
+  "oldguns:recipes/oldguns/gold_trigger_assembly": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/oak_war_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -873,6 +963,12 @@
   "smallships:recipes/envi_willow_cog": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-05-18 00:40:41 +0000"
     },
     "done": true
   },
@@ -903,6 +999,12 @@
   "smallships:recipes/bop_hellbark_cog": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 00:40:00 +0000"
     },
     "done": true
   },
@@ -987,6 +1089,12 @@
   "smallships:recipes/bop_willow_brigg": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-18 00:39:39 +0000"
     },
     "done": true
   },
@@ -1143,6 +1251,12 @@
   "smallships:recipes/bop_cherry_drakkar": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 00:40:00 +0000"
     },
     "done": true
   },
@@ -1328,6 +1442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-18 00:40:41 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_rotten_cog": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -1373,6 +1493,12 @@
   "oldguns:recipes/oldguns/wood_trigger_assembly": {
     "criteria": {
       "has_plank": "2025-05-18 00:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-05-18 00:40:00 +0000"
     },
     "done": true
   },
@@ -1466,6 +1592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-18 00:06:41 +0000"
@@ -1550,6 +1682,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/wooden_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-05-18 00:40:41 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_jacaranda_drakkar": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -1604,6 +1742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_pine_war_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -1619,9 +1763,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-05-18 00:07:15 +0000",
-      "suspicious_stew": "2025-05-18 00:19:49 +0000"
+      "apple": "2025-05-18 00:36:00 +0000",
+      "suspicious_stew": "2025-05-18 00:19:49 +0000",
+      "golden_carrot": "2025-05-18 00:40:06 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-05-18 00:40:41 +0000"
+    },
+    "done": true
   },
   "smallships:recipes/lotr_apple_war_galley": {
     "criteria": {
@@ -1632,6 +1784,12 @@
   "oldguns:recipes/oldguns/small_stone_birdshot": {
     "criteria": {
       "has_paper": "2025-05-18 00:06:37 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/weapons/umbrella": {
+    "criteria": {
+      "has_stick": "2025-05-18 00:40:41 +0000"
     },
     "done": true
   },
@@ -1656,6 +1814,12 @@
   "smallships:recipes/lotr_holly_dhow": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-05-18 00:40:00 +0000"
     },
     "done": true
   },
@@ -1688,6 +1852,18 @@
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000",
       "has_the_recipe": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-18 00:34:27 +0000"
     },
     "done": true
   },
@@ -1727,6 +1903,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-05-18 00:16:15 +0000"
@@ -1736,6 +1918,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-18 00:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-18 00:40:41 +0000"
     },
     "done": true
   },
@@ -1799,6 +1987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 00:06:38 +0000"
@@ -1823,9 +2017,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-05-18 00:40:41 +0000"
+    },
+    "done": true
+  },
   "mineminenomi:recipes/weapons/pipe": {
     "criteria": {
       "has_iron": "2025-05-18 00:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-18 00:40:00 +0000"
     },
     "done": true
   },
@@ -1844,6 +2050,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 00:40:00 +0000"
     },
     "done": true
   },
@@ -1962,6 +2174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-18 00:34:27 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/dark_oak_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -2001,6 +2219,12 @@
   "smallships:recipes/lotr_lebethron_dhow": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-18 00:40:00 +0000"
     },
     "done": true
   },
@@ -2124,6 +2348,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-18 00:39:39 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_dead_rowboat": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -2172,9 +2402,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_magic_cog": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-05-18 00:40:41 +0000"
     },
     "done": true
   },
@@ -2211,6 +2453,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-18 00:16:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-05-18 00:40:00 +0000"
     },
     "done": true
   },
@@ -2286,6 +2534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
   "oldguns:recipes/oldguns/brass_nugget_vanilla": {
     "criteria": {
       "has_crafting_table": "2025-05-18 00:13:00 +0000"
@@ -2352,6 +2606,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
+  "oldguns:recipes/oldguns/flintlock_mechansim": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-05-18 00:06:35 +0000"
@@ -2412,9 +2678,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-18 00:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-18 00:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-18 00:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-18 00:40:00 +0000"
     },
     "done": true
   },
@@ -2433,6 +2717,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-05-18 00:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-18 00:40:00 +0000"
     },
     "done": true
   },
@@ -2488,6 +2778,12 @@
   "fantasyfurniture:recipes/fantasyfurniture/furniture_station": {
     "criteria": {
       "has_crafting_table": "2025-05-18 00:13:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-05-18 00:40:41 +0000"
     },
     "done": true
   },
@@ -2617,6 +2913,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-18 00:40:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -2656,6 +2964,18 @@
   "smallships:recipes/lotr_cherry_cog": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-18 00:40:00 +0000"
     },
     "done": true
   },
@@ -2728,6 +3048,12 @@
   "smallships:recipes/lotr_maple_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2025-05-18 00:40:41 +0000"
     },
     "done": true
   },
