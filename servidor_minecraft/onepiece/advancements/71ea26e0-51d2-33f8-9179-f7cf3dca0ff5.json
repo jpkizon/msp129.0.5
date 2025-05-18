@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-18 00:06:15 +0000"
+    },
+    "done": true
+  },
   "oldguns:recipes/oldguns/large_iron_musket_ball": {
     "criteria": {
       "has_iron_ingot": "2025-05-13 20:38:43 +0000"
@@ -569,6 +575,12 @@
     },
     "done": true
   },
+  "oldguns:recipes/oldguns/small_iron_buckshot": {
+    "criteria": {
+      "has_paper": "2025-05-18 00:05:49 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_pine_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -650,6 +662,12 @@
   "smallships:recipes/bop_umbran_dhow": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "oldguns:recipes/oldguns/small_lead_buckshot": {
+    "criteria": {
+      "has_paper": "2025-05-18 00:05:49 +0000"
     },
     "done": true
   },
@@ -1028,6 +1046,12 @@
     },
     "done": true
   },
+  "oldguns:recipes/oldguns/large_stone_birdshot": {
+    "criteria": {
+      "has_paper": "2025-05-18 00:05:49 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lairelosse_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -1079,6 +1103,12 @@
   "smallships:recipes/oak_war_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "oldguns:recipes/oldguns/large_iron_buckshot": {
+    "criteria": {
+      "has_paper": "2025-05-18 00:05:49 +0000"
     },
     "done": true
   },
@@ -1280,6 +1310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-18 00:05:49 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_wisteria_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -1367,6 +1403,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-13 23:35:01 +0000"
+    },
+    "done": true
+  },
+  "oldguns:recipes/oldguns/medium_lead_birdshot": {
+    "criteria": {
+      "has_paper": "2025-05-18 00:05:49 +0000"
     },
     "done": true
   },
@@ -1523,6 +1565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-18 00:05:49 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_jacaranda_brigg": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -1532,6 +1580,18 @@
   "oldguns:recipes/oldguns/tiny_iron_barrel": {
     "criteria": {
       "has_iron_nugget": "2025-05-14 01:04:29 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/misc/vivre_card": {
+    "criteria": {
+      "has_paper": "2025-05-18 00:05:49 +0000"
+    },
+    "done": true
+  },
+  "oldguns:recipes/oldguns/large_lead_buckshot": {
+    "criteria": {
+      "has_paper": "2025-05-18 00:05:49 +0000"
     },
     "done": true
   },
@@ -1772,6 +1832,12 @@
   "smallships:recipes/lotr_larch_dhow": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "oldguns:recipes/oldguns/large_lead_birdshot": {
+    "criteria": {
+      "has_paper": "2025-05-18 00:05:49 +0000"
     },
     "done": true
   },
@@ -2099,6 +2165,12 @@
   "mineminenomi:recipes/weapons/umbrella": {
     "criteria": {
       "has_stick": "2025-05-13 20:53:09 +0000"
+    },
+    "done": true
+  },
+  "oldguns:recipes/oldguns/small_stone_birdshot": {
+    "criteria": {
+      "has_paper": "2025-05-18 00:05:49 +0000"
     },
     "done": true
   },
@@ -2440,6 +2512,12 @@
     },
     "done": true
   },
+  "oldguns:recipes/oldguns/medium_lead_buckshot": {
+    "criteria": {
+      "has_paper": "2025-05-18 00:05:49 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_pear_rowboat": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -2567,6 +2645,12 @@
     },
     "done": true
   },
+  "oldguns:recipes/oldguns/medium_iron_buckshot": {
+    "criteria": {
+      "has_paper": "2025-05-18 00:05:49 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_mirk_oak_dhow": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -2606,6 +2690,12 @@
   "smallships:recipes/lotr_lebethron_drakkar": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "oldguns:recipes/oldguns/medium_stone_birdshot": {
+    "criteria": {
+      "has_paper": "2025-05-18 00:05:49 +0000"
     },
     "done": true
   },
@@ -2654,6 +2744,12 @@
   "smallships:recipes/lotr_lairelosse_rowboat": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "oldguns:recipes/oldguns/small_lead_birdshot": {
+    "criteria": {
+      "has_paper": "2025-05-18 00:05:49 +0000"
     },
     "done": true
   },
