@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "oldguns:recipes/oldguns/gold_gear_set": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-18 00:23:23 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cypress_drakkar": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -254,6 +260,12 @@
   "smallships:recipes/lotr_fir_war_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-18 00:23:23 +0000"
     },
     "done": true
   },
@@ -864,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-05-18 00:23:43 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/acacia_cog": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -927,6 +945,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 00:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-18 00:20:56 +0000"
     },
     "done": true
   },
@@ -1172,7 +1196,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2025-05-18 00:00:00 +0000"
+      "minecraft:cold_ocean": "2025-05-18 00:27:55 +0000",
+      "minecraft:forest": "2025-05-18 00:00:00 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-18 00:28:07 +0000"
     },
     "done": false
   },
@@ -2080,6 +2106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-18 00:23:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-18 00:06:39 +0000"
@@ -2395,6 +2427,12 @@
   "smallships:recipes/bop_dead_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-05-18 00:23:38 +0000"
     },
     "done": true
   },

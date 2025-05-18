@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "mineminenomi:recipes/misc/kairoseki_bullet": {
+    "criteria": {
+      "has_kairoseki": "2025-05-18 00:27:20 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_mallorn_rowboat": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -572,6 +578,12 @@
   "smallships:recipes/dark_oak_cog": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_rope": {
+    "criteria": {
+      "has_rope": "2025-05-18 00:27:20 +0000"
     },
     "done": true
   },
@@ -765,7 +777,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-13 20:59:17 +0000",
       "minecraft:spider": "2025-05-13 21:12:03 +0000",
-      "minecraft:zombie": "2025-05-13 20:38:02 +0000"
+      "minecraft:zombie": "2025-05-13 20:38:02 +0000",
+      "minecraft:drowned": "2025-05-18 00:22:46 +0000"
     },
     "done": false
   },
@@ -1547,7 +1560,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-05-18 00:28:05 +0000",
       "minecraft:forest": "2025-05-13 20:36:15 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-18 00:28:07 +0000",
       "minecraft:beach": "2025-05-13 20:36:44 +0000",
       "minecraft:lukewarm_ocean": "2025-05-13 20:37:25 +0000"
     },
@@ -1604,6 +1619,12 @@
   "oldguns:recipes/oldguns/medium_wooden_handle": {
     "criteria": {
       "has_stick": "2025-05-13 20:53:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-18 00:24:42 +0000"
     },
     "done": true
   },
@@ -2063,6 +2084,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/safety_net": {
+    "criteria": {
+      "has_rope": "2025-05-18 00:27:20 +0000"
+    },
+    "done": true
+  },
   "oldguns:recipes/oldguns/medium_iron_barrel": {
     "criteria": {
       "has_iron_ingot": "2025-05-13 20:38:43 +0000"
@@ -2096,6 +2123,12 @@
   "smallships:recipes/bop_umbran_brigg": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-18 00:24:42 +0000"
     },
     "done": true
   },
@@ -2140,6 +2173,7 @@
       "cooked_beef": "2025-05-13 23:28:46 +0000",
       "apple": "2025-05-13 21:18:05 +0000",
       "bread": "2025-05-13 20:39:18 +0000",
+      "suspicious_stew": "2025-05-18 00:29:01 +0000",
       "dried_kelp": "2025-05-13 21:06:34 +0000"
     },
     "done": false
@@ -2789,6 +2823,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-18 00:24:42 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_rotten_war_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -3089,6 +3129,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-05-18 00:27:20 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/spruce_rowboat": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -3254,6 +3300,12 @@
   "smallships:recipes/bop_dead_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-05-18 00:23:06 +0000"
     },
     "done": true
   },
