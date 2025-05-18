@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-05-18 00:43:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-05-18 00:18:39 +0000"
@@ -59,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-18 00:06:39 +0000"
@@ -80,6 +92,12 @@
   "smallships:recipes/bop_mahogany_dhow": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
     },
     "done": true
   },
@@ -110,6 +128,18 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-18 00:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-18 00:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-18 00:42:42 +0000"
     },
     "done": true
   },
@@ -185,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-18 00:42:54 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_mallorn_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -257,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-18 00:42:46 +0000"
+    },
+    "done": true
+  },
   "oldguns:recipes/oldguns/large_iron_musket_ball": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 00:06:38 +0000"
@@ -299,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-18 00:42:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-18 00:23:23 +0000"
@@ -314,6 +362,12 @@
   "smallships:recipes/bop_redwood_drakkar": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-05-18 00:43:50 +0000"
     },
     "done": true
   },
@@ -383,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
+    },
+    "done": true
+  },
   "mineminenomi:recipes/misc/bullet": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 00:06:38 +0000"
@@ -416,6 +476,12 @@
   "smallships:recipes/lotr_cherry_war_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
     },
     "done": true
   },
@@ -533,9 +599,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cedar_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-18 00:43:50 +0000"
     },
     "done": true
   },
@@ -647,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-05-18 00:16:15 +0000"
@@ -658,6 +742,12 @@
       "in_water": "2025-05-18 00:00:29 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:drowned": "2025-05-18 00:40:57 +0000"
+    },
+    "done": false
   },
   "oldguns:recipes/oldguns/wheellock_mechansim": {
     "criteria": {
@@ -731,6 +821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-18 00:42:54 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cherry_brigg": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -800,6 +896,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-18 00:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
     },
     "done": true
   },
@@ -984,6 +1086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/jungle_war_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -1086,6 +1194,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:recipes/misc/cannon_ball": {
+    "criteria": {
+      "has_cobblestone": "2025-05-18 00:43:50 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_willow_brigg": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -1170,6 +1290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-18 00:42:54 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_jacaranda_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -1224,6 +1350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_boots": "2025-05-18 00:13:55 +0000"
@@ -1245,6 +1377,12 @@
   "smallships:recipes/envi_wisteria_war_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:drowned": "2025-05-18 00:40:57 +0000"
     },
     "done": true
   },
@@ -1281,6 +1419,12 @@
   "smallships:recipes/bop_mahogany_rowboat": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-18 00:43:50 +0000"
     },
     "done": true
   },
@@ -1370,6 +1514,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-05-18 00:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-05-18 00:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-05-18 00:06:35 +0000"
@@ -1385,6 +1541,12 @@
   "smallships:recipes/envi_cherry_war_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-18 00:43:50 +0000"
     },
     "done": true
   },
@@ -1409,6 +1571,12 @@
   "smallships:recipes/bop_palm_dhow": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-18 00:43:50 +0000"
     },
     "done": true
   },
@@ -1508,6 +1676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-18 00:43:50 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_apple_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -1538,9 +1712,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-18 00:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_cherry_cog": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-18 00:42:42 +0000"
     },
     "done": true
   },
@@ -1619,6 +1811,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 00:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
     },
     "done": true
   },
@@ -1817,6 +2015,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-05-18 00:43:50 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_items": "2025-05-18 00:40:00 +0000"
@@ -1873,6 +2077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_fir_brigg": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -1888,6 +2098,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-05-18 00:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
     },
     "done": true
   },
@@ -1930,6 +2146,12 @@
   "smallships:recipes/bop_redwood_war_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
     },
     "done": true
   },
@@ -1981,6 +2203,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-18 00:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-05-18 00:06:35 +0000"
@@ -1990,6 +2218,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-05-18 00:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-05-18 00:43:50 +0000"
     },
     "done": true
   },
@@ -2074,6 +2308,12 @@
   "smallships:recipes/jungle_cog": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
     },
     "done": true
   },
@@ -2174,6 +2414,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/stone_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-05-18 00:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-18 00:34:27 +0000"
@@ -2228,6 +2474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-18 00:43:50 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lebethron_drakkar": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -2243,6 +2495,12 @@
   "smallships:recipes/bop_redwood_dhow": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-18 00:42:54 +0000"
     },
     "done": true
   },
@@ -2294,6 +2552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-18 00:42:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2025-05-18 00:06:35 +0000"
@@ -2303,6 +2567,12 @@
   "farmersdelight:recipes/farmersdelight/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-05-18 00:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-18 00:42:42 +0000"
     },
     "done": true
   },
@@ -2393,6 +2663,12 @@
   "mineminenomi:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-18 00:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
     },
     "done": true
   },
@@ -2546,9 +2822,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-05-18 00:43:50 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/acacia_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-18 00:44:39 +0000"
     },
     "done": true
   },
@@ -2811,6 +3099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-18 00:42:54 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_drakkar": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -2931,6 +3225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-18 00:42:42 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_pine_drakkar": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -3018,6 +3318,12 @@
   "smallships:recipes/lotr_pear_brigg": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-18 00:42:54 +0000"
     },
     "done": true
   },

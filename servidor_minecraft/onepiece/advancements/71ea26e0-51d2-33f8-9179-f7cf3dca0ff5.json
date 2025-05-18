@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "oldguns:recipes/oldguns/medium_grade_black_powder": {
+    "criteria": {
+      "has_charcoal": "2025-05-18 00:43:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-05-13 20:59:58 +0000"
@@ -503,6 +509,12 @@
     },
     "done": true
   },
+  "oldguns:recipes/oldguns/medium_grade_black_powder_vanilla": {
+    "criteria": {
+      "has_charcoal": "2025-05-18 00:43:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-13 21:18:33 +0000"
@@ -728,6 +740,12 @@
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2025-05-13 20:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2025-05-18 00:45:35 +0000"
     },
     "done": true
   },
@@ -1083,6 +1101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-18 00:45:35 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/spruce_cog": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -1350,6 +1374,12 @@
   "smallships:recipes/bop_mahogany_cog": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-18 00:45:35 +0000"
     },
     "done": true
   },
@@ -1940,6 +1970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-18 00:45:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-05-13 20:53:09 +0000"
@@ -2236,6 +2272,12 @@
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_items": "2025-05-13 23:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-18 00:45:35 +0000"
     },
     "done": true
   },
@@ -2836,6 +2878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-18 00:45:35 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_mirk_oak_brigg": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -2911,6 +2959,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-13 21:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-18 00:45:35 +0000"
     },
     "done": true
   },
@@ -3485,6 +3539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-18 00:45:35 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_fir_dhow": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -3566,6 +3626,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-05-13 23:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-18 00:45:35 +0000"
     },
     "done": true
   },
