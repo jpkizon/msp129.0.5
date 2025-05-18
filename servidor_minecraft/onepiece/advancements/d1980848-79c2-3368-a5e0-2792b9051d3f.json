@@ -987,6 +987,12 @@
     },
     "done": true
   },
+  "bonesandswords:adouble_edge_sword": {
+    "criteria": {
+      "adouble_edge_sword": "2025-05-15 00:25:15 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_larch_drakkar": {
     "criteria": {
       "in_water": "2025-05-13 20:52:07 +0000"
@@ -1665,6 +1671,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-05-13 20:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-05-15 00:25:50 +0000"
     },
     "done": true
   },
@@ -2837,6 +2849,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/spruce_pantry": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-05-15 00:25:50 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_umbran_war_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:52:07 +0000"
@@ -3471,6 +3489,12 @@
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-05-13 21:09:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/barbecue_stick": {
+    "criteria": {
+      "has_cooked_beef": "2025-05-15 00:25:50 +0000"
     },
     "done": true
   },
