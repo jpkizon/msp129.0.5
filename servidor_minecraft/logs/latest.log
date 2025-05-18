@@ -1,236 +1,315 @@
-[18May2025 00:00:00.167] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@27532f66
-[18May2025 00:00:00.182] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: wkkjk[/127.157.29.64:53581] logged in with entity id 1034 at (19.5, 66.0, -58.5)
-[18May2025 00:00:00.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk joined the game
-[18May2025 00:00:00.320] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('wkkjk') Connected! Syncing Supporters to Client Side!
-[18May2025 00:00:00.327] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('wkkjk')...
-[18May2025 00:00:05.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> maricon
-[18May2025 00:00:27.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> oi tudo bem
-[18May2025 00:00:38.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> te tepeo a mi? ando navengado para irme de esa isla
-[18May2025 00:00:47.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> dale
-[18May2025 00:00:53.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
-[18May2025 00:01:07.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> me atacaron el barco
-[18May2025 00:01:10.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> por eso anda asi
-[18May2025 00:01:16.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> ta mas inundado qtukla
-[18May2025 00:02:12.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk has made the advancement [Alex's Mobs]
-[18May2025 00:02:12.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> queres manejar?
-[18May2025 00:02:20.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> paq si n oveo nada
-[18May2025 00:02:28.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> no te carga el barco?
-[18May2025 00:02:35.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> solo el barco y 12 chunks
-[18May2025 00:02:42.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> hay uno ahi
-[18May2025 00:03:02.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> como q ta faltando optifine
-[18May2025 00:03:05.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> no da pra zoom
-[18May2025 00:03:16.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> te metieron un balazo por gil
-[18May2025 00:03:49.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> latam simulator
-[18May2025 00:04:00.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> hay que encontrar una isla con algun refugio de la marina
-[18May2025 00:04:04.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> para atacar a la marina
-[18May2025 00:04:10.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> y conseguir misiones +
-[18May2025 00:04:11.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> vamo entonce
-[18May2025 00:04:26.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> rodrigo cuinado se conecte va a estar solo en la isla JAJAJA
-[18May2025 00:05:44.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
-[18May2025 00:05:46.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> alto torque tiene
-[18May2025 00:05:53.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> jajaja
-[18May2025 00:05:58.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> No conseguimos hacer los motores
-[18May2025 00:06:08.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> taba dificil sobrevivir por mas de 10 minutos
-[18May2025 00:06:25.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> toma
-[18May2025 00:06:30.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> arreglame los cofres si podes
-[18May2025 00:06:38.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk has made the advancement [Acquire Hardware]
-[18May2025 00:06:38.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> tlc
-[18May2025 00:06:45.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> y 30 de carne para vos
-[18May2025 00:07:08.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> re alpedo la esponja
-[18May2025 00:07:41.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> lag estupido
-[18May2025 00:08:05.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> dsp hay que cambair de barco o hacer uno nuevo
-[18May2025 00:08:08.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> en otra isla
-[18May2025 00:08:27.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> ay
-[18May2025 00:08:48.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> fuck
-[18May2025 00:11:26.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> ez
-[18May2025 00:11:56.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> TA DIFICL ENCONTRAR OTRA ISLA
-[18May2025 00:12:31.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> vamos?
-[18May2025 00:12:44.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> Hace un full iron si da
-[18May2025 00:13:12.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> nos van a cagar a tiros
-[18May2025 00:13:20.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> guarda punto con las camas
-[18May2025 00:13:55.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk has made the advancement [Suit Up]
-[18May2025 00:14:14.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk has made the advancement [Sweet Dreams]
-[18May2025 00:14:23.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> amor
-[18May2025 00:14:25.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> casimeaogo
-[18May2025 00:15:59.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> ME LA RE DIERON
-[18May2025 00:16:06.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk has made the advancement [Take Aim]
-[18May2025 00:16:27.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk was killed by Pirate Grunt
-[18May2025 00:16:32.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> ay
-[18May2025 00:16:35.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> qporra fue eso
-[18May2025 00:16:45.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> mod de mierda
-[18May2025 00:17:25.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk was killed by Pirate Grunt
-[18May2025 00:17:41.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon was killed by Pirate Brute using Charged Cleave
-[18May2025 00:18:03.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon was killed by magic whilst trying to escape Pirate Brute
-[18May2025 00:18:29.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> toma
-[18May2025 00:18:53.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk was killed by Pirate Brute using Charged Cleave
-[18May2025 00:19:27.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon was killed by Pirate Brute using Charged Cleave
-[18May2025 00:19:48.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> gil
-[18May2025 00:19:54.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> q deu
-[18May2025 00:19:55.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> y nuestro puto barco? JAJAAJAJ
-[18May2025 00:20:03.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> ta aca por
-[18May2025 00:20:07.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> ah se me bugeo
-[18May2025 00:20:26.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk was killed by Pirate Brute using Charged Cleave
-[18May2025 00:20:29.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> concha
-[18May2025 00:20:41.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> mis cosa
-[18May2025 00:20:51.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> veni
-[18May2025 00:21:01.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> obg
-[18May2025 00:21:17.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon was killed by Pirate Brute using Charged Cleave
-[18May2025 00:21:20.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> tlc
-[18May2025 00:21:49.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk drowned whilst trying to escape Drowned
-[18May2025 00:21:54.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> wtf
-[18May2025 00:22:08.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon was blown up by Pirate Brute
-[18May2025 00:22:46.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> no daba nada viste
-[18May2025 00:23:00.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> fua
-[18May2025 00:23:05.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> re costó y no ganamso anda mismo
-[18May2025 00:23:32.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon was killed by Pirate Brute using Charged Cleave
-[18May2025 00:23:33.440] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+[18May2025 18:06:17.202] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[18May2025 18:06:17.208] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.27 by Ubuntu
+[18May2025 18:06:20.913] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[18May2025 18:06:21.173] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/msp129.0.5/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[18May2025 18:06:23.452] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[18May2025 18:06:23.722] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[18May2025 18:06:23.761] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[18May2025 18:06:27.205] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[18May2025 18:06:27.238] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[18May2025 18:06:29.026] [main/WARN] [mixin/]: Reference map 'eureka-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[18May2025 18:06:32.815] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/actors/BlockBreakingKineticTileEntity (java.lang.ClassNotFoundException: null)
+[18May2025 18:06:32.815] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.actors.BlockBreakingKineticTileEntity was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlockBreakingKineticTileEntity
+[18May2025 18:06:32.816] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/millstone/MillstoneBlock (java.lang.ClassNotFoundException: null)
+[18May2025 18:06:32.817] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.millstone.MillstoneBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
+[18May2025 18:06:32.817] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/processing/BasinBlock (java.lang.ClassNotFoundException: null)
+[18May2025 18:06:32.817] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.processing.BasinBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
+[18May2025 18:06:32.821] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/block/chute/AbstractChuteBlock (java.lang.ClassNotFoundException: null)
+[18May2025 18:06:32.825] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.block.chute.AbstractChuteBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinBlocks
+[18May2025 18:06:32.826] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/structureMovement/render/ContraptionRenderInfo (java.lang.ClassNotFoundException: null)
+[18May2025 18:06:32.826] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.structureMovement.render.ContraptionRenderInfo was not found valkyrienskies-forge.mixins.json:compat.create.MixinContraptionRenderInfo
+[18May2025 18:06:32.829] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/crusher/CrushingWheelBlock (java.lang.ClassNotFoundException: null)
+[18May2025 18:06:32.830] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.crusher.CrushingWheelBlock was not found valkyrienskies-forge.mixins.json:compat.create.MixinCrushingWheelBlock
+[18May2025 18:06:32.834] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/contraptions/components/structureMovement/render/RenderedContraption (java.lang.ClassNotFoundException: null)
+[18May2025 18:06:32.836] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.contraptions.components.structureMovement.render.RenderedContraption was not found valkyrienskies-forge.mixins.json:compat.create.MixinRenderedContraption
+[18May2025 18:06:32.838] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/material/MaterialManager (java.lang.ClassNotFoundException: null)
+[18May2025 18:06:32.840] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.material.MaterialManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MaterialManagerAccessor
+[18May2025 18:06:32.842] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/InstanceManager (java.lang.ClassNotFoundException: null)
+[18May2025 18:06:32.850] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.InstanceManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinInstanceManager
+[18May2025 18:06:32.852] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/InstanceWorld (java.lang.ClassNotFoundException: null)
+[18May2025 18:06:32.852] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.InstanceWorld was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinInstanceWorld
+[18May2025 18:06:32.855] [main/WARN] [mixin/]: Error loading class: com/jozufozu/flywheel/backend/instancing/tile/TileInstanceManager (java.lang.ClassNotFoundException: null)
+[18May2025 18:06:32.856] [main/WARN] [mixin/]: @Mixin target com.jozufozu.flywheel.backend.instancing.tile.TileInstanceManager was not found valkyrienskies-forge.mixins.json:compat.flywheel.client.MixinTileInstanceManager
+[18May2025 18:06:32.857] [main/WARN] [mixin/]: Error loading class: cofh/core/tileentity/TileCoFH (java.lang.ClassNotFoundException: null)
+[18May2025 18:06:41.201] [main/WARN] [mixin/]: @ModifyConstant conflict. Skipping pehkui.mixins.json:reach.PlayerEntityMixin->@ModifyConstant::pehkui$attack$distance(D)D with priority 990, already redirected by mine-mine-no-mi.mixins.json:PlayerEntityMixin->@ModifyConstant::getActualAttackRange(D)D with priority 990
+[18May2025 18:06:56.519] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18May2025 18:06:56.525] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18May2025 18:06:56.525] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18May2025 18:06:56.526] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18May2025 18:06:56.633] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `islands` for name `islands`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[18May2025 18:07:04.912] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]: Permissions registered:
+[18May2025 18:07:04.934] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability
+[18May2025 18:07:04.937] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability.reset_cooldown
+[18May2025 18:07:04.940] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.ability_protection
+[18May2025 18:07:04.944] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.belly
+[18May2025 18:07:04.946] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.bounty
+[18May2025 18:07:04.948] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.challenge
+[18May2025 18:07:04.951] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.history
+[18May2025 18:07:04.951] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_fruits.list
+[18May2025 18:07:04.952] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.check_player
+[18May2025 18:07:04.953] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.doriki
+[18May2025 18:07:04.954] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.extol
+[18May2025 18:07:04.955] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.hakiexp
+[18May2025 18:07:04.957] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.issue_bounty
+[18May2025 18:07:04.958] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.loyalty
+[18May2025 18:07:04.961] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.quest
+[18May2025 18:07:04.961] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf
+[18May2025 18:07:04.961] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.command.removedf.self
+[18May2025 18:07:04.962] [modloading-worker-1/INFO] [xyz.pixelatedw.mineminenomi.ModMain/]:   mineminenomi.item.buster_call
+[18May2025 18:07:08.995] [modloading-worker-1/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+[18May2025 18:07:08.996] [modloading-worker-1/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: Defaulting to no-operation (NOP) logger implementation
+[18May2025 18:07:08.998] [modloading-worker-1/INFO] [STDERR/]: [org.slf4j.helpers.Util:report:128]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[18May2025 18:07:09.757] [modloading-worker-0/INFO] [STDOUT/]: [org.valkyrienskies.core.config.VSConfigClass$Companion:registerNetworkHandlers:199]: registering network handlers
+[18May2025 18:07:10.853] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[18May2025 18:07:10.860] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[18May2025 18:07:11.044] [modloading-worker-1/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Loading Supporter Data...
+[18May2025 18:07:12.039] [modloading-worker-1/INFO] [xyz.apex.repack.com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[18May2025 18:07:12.581] [modloading-worker-1/INFO] [xyz.apex.repack.com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[18May2025 18:07:12.806] [ApexCore Supporter Reload Thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Loaded 4 Supporters!
+[18May2025 18:07:21.719] [main/INFO] [patchouli/]: Loaded book jsons on Thread[main,5,main] in 215 ms
+[18May2025 18:07:25.293] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [oldguns] Starting version check at https://www.zach2039.com/mods/oldguns/update.json
+[18May2025 18:07:25.623] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
-	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
-	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
-	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
-	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
-	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
-	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[18May2025 00:23:52.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> ya fue
-[18May2025 00:23:53.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> vamonos
-[18May2025 00:24:27.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> podes manejar? yo voy a estar comiendo mientras
-[18May2025 00:24:39.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> gracias bro
-[18May2025 00:24:45.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> dale vro
-[18May2025 00:26:07.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> mucho peso y poca aero tiene
-[18May2025 00:26:27.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> en la proxima isla que paremos, hacemos los motores
-[18May2025 00:26:30.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> banca para acá
-[18May2025 00:26:37.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> para ahi?
-[18May2025 00:26:58.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> se re iba
-[18May2025 00:27:20.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon has made the advancement [Crops of the Wild]
-[18May2025 00:27:26.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> qporra
-[18May2025 00:28:08.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> dejame nomas gay
-[18May2025 00:28:23.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> me ibas a abandonar
-[18May2025 00:28:33.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> pense q tabas
-[18May2025 00:29:10.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> segui manejando
-[18May2025 00:30:34.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> toy comiendo xd
-[18May2025 00:30:46.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> cd vc
-[18May2025 00:30:49.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> andamo en la misma
-[18May2025 00:31:04.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> yo ando arriba mirando a ver si hay islas
-[18May2025 00:31:51.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> q hacemo
-[18May2025 00:32:00.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> segui nomas, no conviene por ahora
-[18May2025 00:32:04.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> ata
-[18May2025 00:32:14.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> alto balazo me metieron los hdp
-[18May2025 00:33:29.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> che sabias q las zonas mas pobres de brasil con idh mas bajo son las zonas donde la gente mas voto a lula
-[18May2025 00:34:36.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> si, no es q por votar a lula se volvieron pobres, una de esas zonas es nordeste fijo donde lula esta ayudando muchisimo al pueblo de ahí
-[18May2025 00:35:04.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> claro
-[18May2025 00:35:14.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> yes loq digo
-[18May2025 00:35:19.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> desd eun principio eran pobres
-[18May2025 00:35:56.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> vamo a este
-[18May2025 00:36:05.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> anda solo JAJAJAJ
-[18May2025 00:36:11.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> tengo 1000 belly
-[18May2025 00:36:12.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> no quiero que me coman la bunda
-[18May2025 00:36:21.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> tmpc tengo zoom
-[18May2025 00:36:24.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> no pusieron opt izorras
-[18May2025 00:36:41.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> eso lo tenes q instalar vos en tu mc
-[18May2025 00:37:05.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk was killed by Pirate Grunt
-[18May2025 00:37:09.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> q mierda
-[18May2025 00:37:13.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> de un balazo
-[18May2025 00:37:35.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> tryhardea ahi y dsp contame
-[18May2025 00:37:40.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk was killed by Pirate Grunt
-[18May2025 00:37:41.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> oh shit
-[18May2025 00:37:44.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> bue
-[18May2025 00:38:00.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> andate si
-[18May2025 00:38:04.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> no vale la pena
-[18May2025 00:38:06.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> vamo a este
-[18May2025 00:38:32.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> creo q es de la marina
-[18May2025 00:38:33.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> mañana voy a ver debates todo el dia xd
-[18May2025 00:38:41.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> qmierda ustedes dando ideas pa debatir
-[18May2025 00:38:43.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk was killed by Marine Sniper
-[18May2025 00:38:47.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon went up in flames
-[18May2025 00:38:47.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> wtf
-[18May2025 00:39:03.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> AY
-[18May2025 00:39:04.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> bah
-[18May2025 00:39:04.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> AY
-[18May2025 00:39:14.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> AYTMQUEMEQIm
-[18May2025 00:39:15.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> MEQUemto
-[18May2025 00:39:27.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> nos cogio la marina
-[18May2025 00:39:39.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk has made the advancement [Isn't It Iron Pick]
-[18May2025 00:39:39.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk has made the advancement [Getting an Upgrade]
-[18May2025 00:39:43.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> me das comida?
-[18May2025 00:40:02.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon went up in flames
-[18May2025 00:40:03.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> notengo
-[18May2025 00:40:14.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> mrd
-[18May2025 00:40:23.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> como carajo pasó
-[18May2025 00:40:32.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> de la nada nos metieron un cañon por el culo
-[18May2025 00:40:57.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk has made the advancement [Monster Hunter]
-[18May2025 00:41:31.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> tenes bloques?
-[18May2025 00:41:38.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> no
-[18May2025 00:42:53.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> donde andas?
-[18May2025 00:43:01.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> adentro de la marina
-[18May2025 00:43:08.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> estas enfermo
-[18May2025 00:43:21.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk was slain by Marine Grunt
-[18May2025 00:43:23.567] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Steak'/11859, l='ServerLevel[onepiece]', x=-911.13, y=67.00, z=-1911.58]
-[18May2025 00:43:23.569] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Charcoal'/11856, l='ServerLevel[onepiece]', x=-911.71, y=67.00, z=-1912.88]
-[18May2025 00:43:23.571] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stone Pickaxe'/11849, l='ServerLevel[onepiece]', x=-912.54, y=67.00, z=-1912.88]
-[18May2025 00:43:23.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> imbecil
-[18May2025 00:43:24.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon was slain by Marine Grunt
-[18May2025 00:43:25.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> papeo
-[18May2025 00:43:33.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> es q vos los llamaste
-[18May2025 00:43:34.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> sobro para mi todavía
-[18May2025 00:43:35.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> anormal
-[18May2025 00:43:50.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk has made the advancement [Stone Age]
-[18May2025 00:43:55.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> sin barco. sin comida. sin nada
-[18May2025 00:44:04.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> ranq
-[18May2025 00:44:06.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> traqn
-[18May2025 00:44:24.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk drowned whilst trying to escape Marine Grunt
-[18May2025 00:44:31.045] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> ez
-[18May2025 00:46:07.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> veni
-[18May2025 00:46:14.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> tarado
-[18May2025 00:46:17.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> taba por lootear
-[18May2025 00:46:31.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> de hecho estaba haciendo eso
-[18May2025 00:46:43.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> fds, a empezar desde 0
-[18May2025 00:46:44.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> pero ya fue
-[18May2025 00:46:50.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> bueno amor vamos
-[18May2025 00:46:55.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> :colziaka:
-[18May2025 00:47:01.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> JAJAAJAJ
-[18May2025 00:47:09.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> arranca por ahi y fue horrible
-[18May2025 00:49:08.908] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of wkkjk) moved wrongly! 0.26733662409310455
-[18May2025 00:49:08.909] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of wkkjk) moved wrongly! 0.30117378232603187
-[18May2025 00:49:08.982] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of wkkjk) moved wrongly! 0.30780034889653507
-[18May2025 00:49:09.031] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of wkkjk) moved wrongly! 0.30042056119827976
-[18May2025 00:49:09.092] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Boat (vehicle of wkkjk) moved wrongly! 0.33786537565310937
-[18May2025 00:49:25.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk was slain by Pirate Drowned
-[18May2025 00:49:28.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> tlc
-[18May2025 00:49:30.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> JAJAJJAJA
-[18May2025 00:49:32.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> ta re op
-[18May2025 00:49:39.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> anormal
-[18May2025 00:49:40.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> no da
-[18May2025 00:49:42.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> no tenemos nad
-[18May2025 00:50:00.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wkkjk was slain by Key Keeper Skeleton
-[18May2025 00:50:02.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon was slain by Key Keeper Skeleton
-[18May2025 00:50:03.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> tpea
-[18May2025 00:50:04.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> tpea
-[18May2025 00:50:05.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> NOOO
-[18May2025 00:50:06.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> JAJAJAJJAJA
-[18May2025 00:50:17.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> ta cara
-[18May2025 00:50:20.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> fue horrible pa nos
-[18May2025 00:50:22.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> cara era buena
-[18May2025 00:50:26.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> teniamos jodido barco
-[18May2025 00:50:28.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> y loot
-[18May2025 00:50:34.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> solo q tan re op los fisura
-[18May2025 00:50:39.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> perdimos todo por memas AJAJAJAJJA
-[18May2025 00:50:54.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> sin comida, sin abrco, sin loot, sin nda
-[18May2025 00:50:56.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> literalmente
-[18May2025 00:52:13.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <wkkjk> qsale
-[18May2025 00:52:32.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> ns, tamo en la piedra
-[18May2025 00:52:37.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> re naufragos
-[18May2025 00:53:59.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon drowned
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[18May2025 18:07:25.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obfuscate] Starting version check at https://mrcrayfish.com/modupdatejson?id=obfuscate
+[18May2025 18:07:25.821] [main/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Received Furniture Station Result ('apexcore:player_plushie') from Mod: 'apexcore'
+[18May2025 18:07:25.824] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=obfuscate
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2017) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:2012) ~[?:?]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:2011) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1573) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1557) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:163) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://mrcrayfish.com/modupdatejson?id=obfuscate
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1961) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1557) ~[?:?]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:145) ~[forge:?]
+	... 3 more
+[18May2025 18:07:25.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/Ship-Mod/main/update.json
+[18May2025 18:07:25.864] [main/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Received Furniture Station Result ('apexcore:player_plushie') from Mod: 'apexcore'
+[18May2025 18:07:25.867] [main/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Received Furniture Station Result ('apexcore:player_plushie') from Mod: 'apexcore'
+[18May2025 18:07:25.867] [main/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Received Furniture Station Result ('apexcore:player_plushie') from Mod: 'apexcore'
+[18May2025 18:07:25.923] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 10 column 4 path $.
+	at com.google.gson.Gson.fromJson(Gson.java:902) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:852) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:801) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:773) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:193) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at line 10 column 4 path $.
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:491) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:414) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:184) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	... 6 more
+[18May2025 18:07:25.930] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18May2025 18:07:26.233] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[18May2025 18:07:26.233] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://raw.githubusercontent.com/ApexStudios-Dev/Version/master/fantasyfurniture.json
+[18May2025 18:07:26.253] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: AHEAD Current: 2.0.2 Target: null
+[18May2025 18:07:35.427] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18May2025 18:07:37.290] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, compute, scale_type, entity] and [scale, compute, scale_type, scalingFactor] with inputs: [0123]
+[18May2025 18:07:37.325] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, compute, scale_type, scalingFactor] and [scale, compute, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[18May2025 18:07:37.329] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, delay, get, scale_type] and [scale, delay, get, entity] with inputs: [base]
+[18May2025 18:07:37.334] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, delay, reset, scale_type] and [scale, delay, reset, targets] with inputs: [base]
+[18May2025 18:07:37.341] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, easing, get, scale_type] and [scale, easing, get, entity] with inputs: [base]
+[18May2025 18:07:37.345] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, easing, reset, scale_type] and [scale, easing, reset, targets] with inputs: [base]
+[18May2025 18:07:37.356] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, entity] and [scale, get, scalingFactor] with inputs: [0123]
+[18May2025 18:07:37.361] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scale_type] and [scale, get, entity] with inputs: [base]
+[18May2025 18:07:37.367] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scale_type, entity] and [scale, get, scale_type, scalingFactor] with inputs: [0123]
+[18May2025 18:07:37.374] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scale_type, scalingFactor] and [scale, get, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[18May2025 18:07:37.379] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scalingFactor] and [scale, get, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[18May2025 18:07:37.388] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, persist, reset, scale_type] and [scale, persist, reset, targets] with inputs: [base]
+[18May2025 18:07:37.402] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, reset, scale_type] and [scale, reset, targets] with inputs: [base]
+[18May2025 18:07:37.425] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18May2025 18:07:37.431] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18May2025 18:07:37.434] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18May2025 18:07:37.437] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18May2025 18:07:37.444] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18May2025 18:07:37.474] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, FarmersDelight-1.16.5-0.6.0.jar, TaxOceanVillager+M.1.16+ForM-1.1.2.jar, mine-mine-no-mi-1.16.5-0.10.5.jar, cannons!.jar, oldguns-1.16.5-3.0.7-35.jar, jei-1.16.5-7.8.0.1009.jar, Pehkui-3.7.8+1.16.5-forge.jar, Swashbucklers 0.3 1.16.jar, betterleveling-1.16.5-0.6.2.jar, obscure_api-11.jar, curios-forge-1.16.5-4.1.0.0.jar, Patchouli-1.16.4-53.3.jar, citadel-1.8.1-1.16.5.jar, alexsmobs-1.12.1.jar, BetterThirdPerson-Forge-1.16.4-1.9.0.jar, more_ships_1.16.5_4.1.jar, obfuscate-0.6.3-1.16.5.jar, architectury-419699-3857643.jar, cloth-config-forge-4.16.91.jar, smallships-1.16.5-1.10.1.jar, valkyrienskies-116-2.0.0-alpha6.jar, eureka-1.0.0-alpha7.jar, islands-1.16.5-1.4.2.jar, forge-1.16.5-36.2.42-universal.jar, Atum-1.16.5-2.2.12.jar, apexcore-1.16.5-1.10.0.jar, fantasyfurniture-1.16.5-2.0.2.jar, Aquaculture-1.16.5-2.1.23.jar, aquamirae-5.4.API11.jar, DungeonsArise-1.16.5-2.1.49-beta.jar, BonesAndSwordsBetaR0.3.jar
+[18May2025 18:07:47.984] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 14 recipes
+[18May2025 18:07:49.393] [Worker-Main-2/ERROR] [net.minecraft.loot.LootTableManager/]: Couldn't parse loot table mineminenomi:blocks/moss
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'mineminenomi:moss'
+	at net.minecraft.util.JSONUtils.func_219793_a(SourceFile:127) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188172_b(SourceFile:127) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188180_i(SourceFile:135) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:55) ~[?:?]
+	at net.minecraft.loot.ItemLootEntry$Serializer.func_212829_b_(SourceFile:40) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:151) ~[?:?]
+	at net.minecraft.loot.StandaloneLootEntry$Serializer.func_230421_b_(SourceFile:129) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:86) ~[?:?]
+	at net.minecraft.loot.LootEntry$Serializer.func_230423_a_(SourceFile:74) ~[?:?]
+	at net.minecraft.loot.LootTypesManager$Serializer.deserialize(SourceFile:83) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188174_a(SourceFile:448) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:183) ~[?:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:180) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraft.util.JSONUtils.func_188179_a(SourceFile:440) ~[?:?]
+	at net.minecraft.util.JSONUtils.func_188177_a(SourceFile:456) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:252) ~[?:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:249) ~[?:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:874) ~[forge:?]
+	at net.minecraft.loot.LootTableManager.lambda$apply$0(LootTableManager.java:40) ~[?:?]
+	at java.util.HashMap.forEach(HashMap.java:1337) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:38) ~[?:?]
+	at net.minecraft.loot.LootTableManager.func_212853_a_(LootTableManager.java:16) ~[?:?]
+	at net.minecraft.client.resources.ReloadListener.func_215269_a(SourceFile:13) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:722) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219557_a(SourceFile:71) ~[?:?]
+	at net.minecraft.resources.AsyncReloader.func_219560_a(SourceFile:70) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:710) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) ~[?:?]
+	at java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2079) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216873_a(SourceFile:53) ~[?:?]
+	at net.minecraft.resources.AsyncReloader$1.func_216872_a(SourceFile:50) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1072) [?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1705) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+[18May2025 18:07:51.116] [Worker-Main-2/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[18May2025 18:07:51.117] [Worker-Main-2/ERROR] [net.minecraft.resources.FunctionReloader/]: Failed to load function bonesandswords:chestloot
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Unknown or invalid command '/data merge block ~ ~-2 ~ {LootTable:"PirateLoot"}' on line 1 (did you mean 'data'? Do not use a preceding forwards slash.)
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1702) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1692) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+Caused by: java.lang.IllegalArgumentException: Unknown or invalid command '/data merge block ~ ~-2 ~ {LootTable:"PirateLoot"}' on line 1 (did you mean 'data'? Do not use a preceding forwards slash.)
+	at net.minecraft.command.FunctionObject.func_237140_a_(SourceFile:50) ~[?:?]
+	at net.minecraft.resources.FunctionReloader.func_240935_a_(SourceFile:86) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700) ~[?:?]
+	... 6 more
+[18May2025 18:07:51.716] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1848 advancements
+[18May2025 18:08:00.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[18May2025 18:08:00.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18May2025 18:08:00.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18May2025 18:08:00.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18May2025 18:08:01.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18May2025 18:08:01.466] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[18May2025 18:08:01.853] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18May2025 18:08:01.854] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18May2025 18:08:01.856] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18May2025 18:08:01.859] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18May2025 18:08:02.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./onepiece/serverconfig/oldguns-server.toml is not correct. Correcting
+[18May2025 18:08:02.474] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.recipeSettings.designNotesSettings.designNotesRequiredItems was corrected from [oldguns:flintlock_mechanism, oldguns:caplock_mechanism, oldguns:matchlock_musketoon, oldguns:matchlock_blunderbuss_pistol, oldguns:wheellock_doublebarrel_pistol, oldguns:wheellock_musketoon, oldguns:wheellock_blunderbuss_pistol, oldguns:flintlock_duckfoot_derringer, oldguns:flintlock_pepperbox_pistol, oldguns:flintlock_musketoon, oldguns:flintlock_nock_gun, oldguns:flintlock_blunderbuss_pistol] to its default, [oldguns:flintlock_mechanism, oldguns:caplock_mechanism, oldguns:matchlock_musketoon, oldguns:matchlock_blunderbuss_pistol, oldguns:wheellock_doublebarrel_pistol, oldguns:wheellock_musketoon, oldguns:wheellock_blunderbuss_pistol, oldguns:flintlock_duckfoot_derringer, oldguns:flintlock_pepperbox_pistol, oldguns:flintlock_musketoon, oldguns:flintlock_nock_gun, oldguns:flintlock_blunderbuss_pistol]. 
+[18May2025 18:08:02.481] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.recipeSettings.blackPowderManufactureSettings.niterProductionSettings.lowRefuseAnimals was corrected from [entity.minecraft.chicken, entity.minecraft.pig, entity.minecraft.sheep, entity.minecraft.llama] to its default, [entity.minecraft.chicken, entity.minecraft.pig, entity.minecraft.sheep, entity.minecraft.llama]. 
+[18May2025 18:08:02.483] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.recipeSettings.blackPowderManufactureSettings.niterProductionSettings.highRefuseAnimals was corrected from [entity.minecraft.horse, entity.minecraft.cow] to its default, [entity.minecraft.horse, entity.minecraft.cow]. 
+[18May2025 18:08:02.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "onepiece"
+[18May2025 18:08:05.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18May2025 18:08:11.216] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[18May2025 18:08:12.159] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18May2025 18:08:12.167] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18May2025 18:08:12.168] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18May2025 18:08:12.170] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18May2025 18:08:12.171] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18May2025 18:08:12.174] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18May2025 18:08:12.174] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18May2025 18:08:12.174] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18May2025 18:08:12.175] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18May2025 18:08:12.175] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18May2025 18:08:12.176] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18May2025 18:08:12.176] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18May2025 18:08:12.177] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18May2025 18:08:12.226] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[18May2025 18:08:12.283] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[18May2025 18:08:12.840] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 7%
+[18May2025 18:08:13.228] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[18May2025 18:08:13.300] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 51%
+[18May2025 18:08:13.815] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 88%
+[18May2025 18:08:14.235] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[18May2025 18:08:15.239] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[18May2025 18:08:16.064] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 10288 ms
+[18May2025 18:08:16.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.968s)! For help, type "help"
+[18May2025 18:08:16.243] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[18May2025 18:08:17.250] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[18May2025 18:08:18.253] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[18May2025 18:08:19.255] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[18May2025 18:08:20.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2955ms or 59 ticks behind
+[18May2025 18:08:40.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5033ms or 100 ticks behind
+[18May2025 18:08:43.679] [Server thread/WARN] [mixin/]: @ModifyConstant conflict. Skipping pehkui.mixins.json:reach.compat118minus.ServerPlayNetworkHandlerMixin->@ModifyConstant::pehkui$onPlayerInteractEntity$distance(D)D with priority 990, already redirected by mine-mine-no-mi.mixins.json:ServerPlayNetHandlerMixin->@ModifyConstant::getActualAttackRange(DLnet/minecraft/network/play/client/CUseEntityPacket;)D with priority 1000
+[18May2025 18:08:43.679] [Server thread/WARN] [mixin/]: @ModifyConstant conflict. Skipping pehkui.mixins.json:reach.compat118minus.ServerPlayNetworkHandlerMixin->@ModifyConstant::pehkui$onPlayerInteractEntity$distance(D)D with priority 990, already redirected by mine-mine-no-mi.mixins.json:ServerPlayNetHandlerMixin->@ModifyConstant::getActualAttackRange(DLnet/minecraft/network/play/client/CUseEntityPacket;)D with priority 1000
+[18May2025 18:10:14.432] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@23656a12
+[18May2025 18:10:14.493] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: jpkizon[/127.162.219.226:46203] logged in with entity id 131 at (-862.7007413034952, 58.26626698849465, -1864.8604097321922)
+[18May2025 18:10:14.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon joined the game
+[18May2025 18:10:14.735] [Server thread/INFO] [xyz.apex.forge.apexcore.core.ApexCore/]: Player ('jpkizon') Connected! Syncing Supporters to Client Side!
+[18May2025 18:10:14.737] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Syncing FurnitureStation results to client ('jpkizon')...
+[18May2025 18:10:14.738] [Server thread/INFO] [xyz.apex.forge.fantasyfurniture.FantasyFurniture/]: Precaching Furniture Station Crafting Results...
+[18May2025 18:10:33.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[18May2025 18:10:53.792] [Server thread/WARN] [org.valkyrienskies.core.networking.UdpServerImpl/]: There were 5 cases of failed connections in a row, is the UDP port accessible?
+[18May2025 18:10:53.793] [Server thread/INFO] [org.valkyrienskies.core.networking.UdpServerImpl/]: By disabling UDP this warning shall not be printed anymore.
+[18May2025 18:13:08.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[18May2025 18:13:31.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18May2025 18:13:35.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <jpkizon> asd
+[18May2025 18:15:36.714] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18May2025 18:15:36.717] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[18May2025 18:15:54.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: jpkizon has completed the challenge [The Power of the Sun]
