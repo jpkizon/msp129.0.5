@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-05-21 21:36:43 +0000"
+    },
+    "done": true
+  },
   "obscure_api:recipes/obscure_book": {
     "criteria": {
       "has_item": "2025-05-13 20:36:15 +0000"
@@ -485,6 +491,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2025-05-21 21:39:54 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cherry_war_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -518,6 +530,12 @@
   "oldguns:recipes/oldguns/medium_grade_black_powder_vanilla": {
     "criteria": {
       "has_charcoal": "2025-05-18 00:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-05-21 21:36:43 +0000"
     },
     "done": true
   },
@@ -1092,6 +1110,12 @@
   "smallships:recipes/lotr_larch_drakkar": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-21 21:36:43 +0000"
     },
     "done": true
   },
@@ -1844,6 +1868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-21 21:36:43 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-05-13 20:36:15 +0000"
@@ -1913,6 +1943,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-05-13 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-21 21:36:43 +0000"
     },
     "done": true
   },
@@ -2489,6 +2525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-05-21 21:36:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-13 21:00:17 +0000"
@@ -2708,6 +2750,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-05-13 20:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-05-21 21:36:43 +0000"
     },
     "done": true
   },
@@ -3240,6 +3288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-21 21:36:43 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_willow_drakkar": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"
@@ -3363,6 +3417,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-05-13 23:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-21 21:36:43 +0000"
     },
     "done": true
   },

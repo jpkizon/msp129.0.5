@@ -479,6 +479,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2025-05-21 21:39:28 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cherry_war_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
