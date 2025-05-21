@@ -2477,6 +2477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-21 21:27:39 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_redwood_war_galley": {
     "criteria": {
       "in_water": "2025-05-13 20:37:14 +0000"

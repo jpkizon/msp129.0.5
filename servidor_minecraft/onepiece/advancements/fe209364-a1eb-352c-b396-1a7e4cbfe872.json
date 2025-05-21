@@ -923,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-21 21:30:21 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_charred_cog": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -1707,6 +1713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-21 21:30:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2025-05-18 00:06:37 +0000"
@@ -2028,7 +2040,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-05-18 00:07:15 +0000",
+      "beetroot_soup": "2025-05-21 21:24:59 +0000",
       "apple": "2025-05-18 00:36:00 +0000",
+      "potato": "2025-05-21 21:28:06 +0000",
+      "bread": "2025-05-21 21:24:04 +0000",
       "suspicious_stew": "2025-05-18 00:19:49 +0000",
       "golden_carrot": "2025-05-18 00:40:06 +0000",
       "mushroom_stew": "2025-05-21 21:16:18 +0000"
@@ -2068,6 +2083,12 @@
   "mineminenomi:recipes/weapons/umbrella": {
     "criteria": {
       "has_stick": "2025-05-18 00:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-21 21:30:21 +0000"
     },
     "done": true
   },
