@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 21:44:19 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/birch_war_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -781,6 +787,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-21 21:46:21 +0000",
+      "minecraft:piglin_brute": "2025-05-21 21:46:22 +0000",
+      "minecraft:creeper": "2025-05-21 21:46:21 +0000",
+      "minecraft:zombie": "2025-05-21 21:46:21 +0000",
       "minecraft:drowned": "2025-05-18 00:40:57 +0000"
     },
     "done": false
@@ -899,6 +909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 21:44:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_nugget": "2025-05-18 00:06:37 +0000"
@@ -920,6 +936,12 @@
   "smallships:recipes/lotr_pine_rowboat": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 21:44:19 +0000"
     },
     "done": true
   },
@@ -1080,9 +1102,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 21:44:19 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/spruce_cog": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 21:44:19 +0000"
     },
     "done": true
   },
@@ -1137,6 +1171,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-05-18 00:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 21:44:19 +0000"
     },
     "done": true
   },
@@ -1332,6 +1372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 21:44:19 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/oak_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -1353,6 +1399,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 00:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 21:44:19 +0000"
     },
     "done": true
   },
@@ -2184,6 +2236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 21:44:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-18 00:44:39 +0000"
@@ -2211,6 +2269,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2025-05-18 00:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-05-21 21:49:19 +0000"
     },
     "done": true
   },
@@ -2337,6 +2401,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-05-18 00:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-05-21 21:50:02 +0000"
     },
     "done": true
   },
@@ -2530,6 +2600,12 @@
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2025-05-18 00:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 21:44:19 +0000"
     },
     "done": true
   },
@@ -3007,6 +3083,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 21:44:19 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/birch_galley": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -3091,6 +3173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 21:44:19 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_pear_dhow": {
     "criteria": {
       "in_water": "2025-05-18 00:00:29 +0000"
@@ -3124,6 +3212,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-18 00:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 21:44:19 +0000"
     },
     "done": true
   },
@@ -3272,6 +3366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 21:44:19 +0000"
+    },
+    "done": true
+  },
   "oldguns:recipes/oldguns/large_iron_barrel": {
     "criteria": {
       "has_iron_nugget": "2025-05-18 00:06:37 +0000"
@@ -3305,6 +3405,12 @@
   "oldguns:recipes/oldguns/brass_ingot": {
     "criteria": {
       "has_crafting_table": "2025-05-18 00:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 21:44:19 +0000"
     },
     "done": true
   },
@@ -3431,6 +3537,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-21 21:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 21:44:19 +0000"
     },
     "done": true
   },
